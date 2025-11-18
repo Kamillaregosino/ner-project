@@ -3,7 +3,6 @@
 Esse projeto tem o objetivo de colocar em prática estudos sobre Reconhecimento de Entidades Nomeadas, além de aprender como usar a biblioteca spacy, fazer rotulações, criar exemplos que simulam cenários da vida real e também usar a LLM do Gemini para fazer as rotulações.
 
 ## Estrutura das pastas
-## Estrutura das pastas
 
 ```text
 /
