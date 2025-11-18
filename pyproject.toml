@@ -1,0 +1,23 @@
+[project]
+name = "ner-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=5.5.0",
+    "counter>=1.0.0",
+    "google-generativeai>=0.8.5",
+    "jupyter>=1.1.1",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "pt-core-news-lg",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.7.2",
+    "spacy>=3.8.9",
+    "spacy-lookups-data>=1.0.5",
+    "streamlit>=1.51.0",
+]
+
+[tool.uv.sources]
+pt-core-news-lg = { url = "https://github.com/explosion/spacy-models/releases/download/pt_core_news_lg-3.8.0/pt_core_news_lg-3.8.0-py3-none-any.whl" }
