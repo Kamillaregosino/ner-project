@@ -37,7 +37,7 @@ Após baixar, coloque o arquivo na pasta: Applications
 
 **Score F1 Geral (Média de todas entidades): 70.62%**
 
-
+```text
 ========================================================
                   DESEMPENHO POR ENTIDADE                  
 ========================================================
@@ -50,13 +50,15 @@ CARGO        |      68.75% |      73.33% |      70.97%
 VALOR        |      80.00% |      61.54% |      69.57%
 TEMA         |      44.07% |      48.15% |      46.02%
 ========================================================
+```
+
 
 ---------------------------------------------------------------------------
 ## Avaliação da LLM
 
 Score F1 Geral (Média de todas entidades): 60.73%
 
-
+```text
 ========================================================
                   DESEMPENHO POR ENTIDADE                  
 ========================================================
@@ -69,6 +71,8 @@ CARGO        |      32.23% |      78.00% |      45.61%
 VALOR        |      53.85% |      91.30% |      67.74%
 TEMA         |      34.75% |      53.25% |      42.06%
 ========================================================
+```
+
 
 ------------------------------------------------------------------------------------
 ## Aplicação do NER usando o modelo do spacy para análise de tendências em notícias
@@ -77,10 +81,14 @@ A ideia é usar o NER para analisar um conjunto de textos e extrair as entidades
 
 ![IMG_0943](https://github.com/user-attachments/assets/f16e35d0-7acc-436d-ad2a-bb00ac09ba4e)
 
+---------------------------------------------------------------------------------------
+
 ![IMG_0941](https://github.com/user-attachments/assets/7705ba75-4772-4954-bf4c-def056f8252c)
+-----------------------------------------------------------------------------------------
 
 
 ![IMG_0942](https://github.com/user-attachments/assets/ea76df00-9985-446e-9497-17f0fd41c465)
+----------------------------------------------------------------------------------------------
 
 
 ## Aplicação do NER para buscas
