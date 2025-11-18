@@ -6,20 +6,20 @@ Esse projeto tem o objetivo de colocar em prática estudos sobre Reconhecimento 
 
 ```text
 /
-├── 📁 Applications/                  # Contém a aplicação do NER
-│   ├── dashboard_trend_analysis.ipynb  # Aplicação do NER para analisar tendências de notícias   
-│   ├── search.ipynb                    # Aplicação do NER para fazer buscas
+├── 📁 Applications/                  
+│   ├── dashboard_trend_analysis.ipynb  
+│   ├── search.ipynb                    
 │
-├── 📁 Data/                           # Contém os dados utilizados na aplicação   
-│   ├── convert.ipynb                  # Converte os dados do Label Studio para formato do spaCy
+├── 📁 Data/                           
+│   ├── convert.ipynb                 
 │
 ├── 📁 LLM/
-│   ├── ner.ipynb                      # Uso de LLM para rotulação e avaliação NER
+│   ├── ner.ipynb                     
 │
 ├── 📁 Train_teste/
-│   ├── train_test.ipynb               # Treino e teste usando spaCy
+│   ├── train_test.ipynb              
 │
-└── pyproject.toml                     # Dependências do projeto
+└── pyproject.toml                    
 ```
 
 ## Download do Modelo
