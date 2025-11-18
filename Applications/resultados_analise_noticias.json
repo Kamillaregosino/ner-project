@@ -1,0 +1,128 @@
+[
+    {
+        "id_busca": 1,
+        "criterios": {
+            "ORG": "Ibama",
+            "LOC": "Amazônia"
+        },
+        "total_encontrado": 1,
+        "resultados": [
+            {
+                "id": "doc_13",
+                "text": "O Ibama multou madeireiras ilegais no sul do Pará. A ministra Marina Silva reforçou a importância da fiscalização na Amazônia.",
+                "entities": [
+                    {
+                        "text": "Ibama",
+                        "label": "ORG"
+                    },
+                    {
+                        "text": "Pará",
+                        "label": "LOC"
+                    },
+                    {
+                        "text": "ministra",
+                        "label": "CARGO"
+                    },
+                    {
+                        "text": "Marina Silva",
+                        "label": "PER"
+                    },
+                    {
+                        "text": "fiscalização",
+                        "label": "TEMA"
+                    },
+                    {
+                        "text": "Amazônia",
+                        "label": "LOC"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id_busca": 2,
+        "criterios": {
+            "PER": "Tarcísio de Freitas",
+            "LOC": "São Paulo"
+        },
+        "total_encontrado": 1,
+        "resultados": [
+            {
+                "id": "doc_11",
+                "text": "O governador Tarcísio de Freitas inaugurou uma nova estação de trem. O evento ocorreu na zona leste de São Paulo.",
+                "entities": [
+                    {
+                        "text": "Tarcísio de Freitas",
+                        "label": "PER"
+                    },
+                    {
+                        "text": "São Paulo",
+                        "label": "LOC"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id_busca": 3,
+        "criterios": {
+            "ORG": "Embrapa"
+        },
+        "total_encontrado": 1,
+        "resultados": [
+            {
+                "id": "doc_12",
+                "text": "A colheita de soja no Mato Grosso atingiu 80% da área plantada. A Embrapa alertou para os riscos climáticos na região.",
+                "entities": [
+                    {
+                        "text": "80%",
+                        "label": "VALOR"
+                    },
+                    {
+                        "text": "Embrapa",
+                        "label": "ORG"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id_busca": 4,
+        "criterios": {
+            "PER": "Alexandre de Moraes"
+        },
+        "total_encontrado": 1,
+        "resultados": [
+            {
+                "id": "doc_9",
+                "text": "O ministro Alexandre de Moraes, do STF, determinou novas diligências. A Polícia Federal cumpriu mandados em Brasília e Curitiba.",
+                "entities": [
+                    {
+                        "text": "ministro",
+                        "label": "CARGO"
+                    },
+                    {
+                        "text": "Alexandre de Moraes",
+                        "label": "PER"
+                    },
+                    {
+                        "text": "STF",
+                        "label": "ORG"
+                    },
+                    {
+                        "text": "Polícia Federal",
+                        "label": "ORG"
+                    },
+                    {
+                        "text": "Brasília",
+                        "label": "LOC"
+                    },
+                    {
+                        "text": "Curitiba",
+                        "label": "LOC"
+                    }
+                ]
+            }
+        ]
+    }
+]

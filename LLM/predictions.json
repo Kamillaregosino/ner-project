@@ -1,0 +1,3359 @@
+[
+  {
+    "text": "O presidente Luiz Inácio Lula da Silva anunciou nesta quarta-feira um novo pacote de investimentos em infraestrutura. O programa, batizado de Avança Brasil, prevê R$ 200 bilhões em obras de transporte e energia. Entre os projetos, está a duplicação da BR-153, que liga Goiás ao Tocantins. O ministro da Fazenda, Fernando Haddad, afirmou que os recursos virão em parte do Banco Nacional de Desenvolvimento Econômico e Social (BNDES). O objetivo é gerar dois milhões de empregos diretos até 2026. O governo espera atrair também capital estrangeiro para os projetos de energia solar e eólica. Durante o evento, realizado em Brasília, Lula destacou a importância da integração regional. A cerimônia contou com a presença de governadores, prefeitos e empresários. O presidente disse que a prioridade será o desenvolvimento sustentável. Especialistas consideram o programa uma das maiores apostas do governo federal desde o PAC.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "presidente"
+      },
+      {
+        "label": "PER",
+        "text": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "label": "TEMA",
+        "text": "infraestrutura"
+      },
+      {
+        "label": "ORG",
+        "text": "Avança Brasil"
+      },
+      {
+        "label": "VALOR",
+        "text": "R$ 200 bilhões"
+      },
+      {
+        "label": "TEMA",
+        "text": "transporte"
+      },
+      {
+        "label": "TEMA",
+        "text": "energia"
+      },
+      {
+        "label": "LOC",
+        "text": "BR-153"
+      },
+      {
+        "label": "LOC",
+        "text": "Goiás"
+      },
+      {
+        "label": "LOC",
+        "text": "Tocantins"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro da Fazenda"
+      },
+      {
+        "label": "PER",
+        "text": "Fernando Haddad"
+      },
+      {
+        "label": "ORG",
+        "text": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)"
+      },
+      {
+        "label": "VALOR",
+        "text": "dois milhões"
+      },
+      {
+        "label": "VALOR",
+        "text": "2026"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "TEMA",
+        "text": "energia solar"
+      },
+      {
+        "label": "TEMA",
+        "text": "eólica"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasília"
+      },
+      {
+        "label": "PER",
+        "text": "Lula"
+      },
+      {
+        "label": "CARGO",
+        "text": "governadores"
+      },
+      {
+        "label": "CARGO",
+        "text": "prefeitos"
+      },
+      {
+        "label": "CARGO",
+        "text": "empresários"
+      },
+      {
+        "label": "TEMA",
+        "text": "desenvolvimento sustentável"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "ORG",
+        "text": "governo federal"
+      },
+      {
+        "label": "ORG",
+        "text": "PAC"
+      }
+    ]
+  },
+  {
+    "text": "A Petrobras anunciou um novo reajuste no preço da gasolina, que passará a custar R$ 5,29 por litro nas refinarias. O aumento será de 4,2% em média, segundo comunicado divulgado nesta segunda-feira. A decisão ocorre após a alta do barril de petróleo no mercado internacional. O presidente da companhia, Jean Paul Prates, afirmou que o reajuste busca equilibrar os custos de importação. O impacto nos postos de combustível deve ser sentido já nos próximos dias. Economistas alertam para possível pressão inflacionária no curto prazo. O Ministério da Fazenda avalia medidas para conter os efeitos sobre o consumidor. Sindicatos de caminhoneiros criticaram o aumento e pedem subsídios temporários. Em nota, o governo reforçou que a política de preços segue critérios técnicos. O mercado financeiro reagiu com leve queda nas ações da estatal.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Petrobras"
+      },
+      {
+        "label": "TEMA",
+        "text": "preço da gasolina"
+      },
+      {
+        "label": "VALOR",
+        "text": "R$ 5,29"
+      },
+      {
+        "label": "VALOR",
+        "text": "4,2%"
+      },
+      {
+        "label": "TEMA",
+        "text": "petróleo"
+      },
+      {
+        "label": "CARGO",
+        "text": "presidente da companhia"
+      },
+      {
+        "label": "PER",
+        "text": "Jean Paul Prates"
+      },
+      {
+        "label": "CARGO",
+        "text": "Economistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "pressão inflacionária"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério da Fazenda"
+      },
+      {
+        "label": "ORG",
+        "text": "Sindicatos de caminhoneiros"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "TEMA",
+        "text": "política de preços"
+      },
+      {
+        "label": "ORG",
+        "text": "mercado financeiro"
+      }
+    ]
+  },
+  {
+    "text": "Pesquisadores da Universidade de São Paulo desenvolveram um novo teste rápido para detecção de dengue. O exame promete identificar o vírus em menos de 10 minutos. O projeto é coordenado pelo Instituto de Ciências Biomédicas e contou com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP). A nova tecnologia utiliza nanopartículas de ouro para detectar anticorpos no sangue. Segundo os cientistas, o custo do teste será de apenas R$ 15 por unidade. A expectativa é que o produto esteja disponível no SUS até o final de 2025. O Ministério da Saúde demonstrou interesse em ampliar a produção nacional. Nos últimos meses, o Brasil registrou aumento de 30% nos casos de dengue. Especialistas acreditam que a ferramenta poderá reduzir o tempo de diagnóstico e salvar vidas. O estudo foi publicado na revista científica Nature Biomedical Engineering.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Pesquisadores"
+      },
+      {
+        "label": "ORG",
+        "text": "Universidade de São Paulo"
+      },
+      {
+        "label": "TEMA",
+        "text": "dengue"
+      },
+      {
+        "label": "VALOR",
+        "text": "10 minutos"
+      },
+      {
+        "label": "ORG",
+        "text": "Instituto de Ciências Biomédicas"
+      },
+      {
+        "label": "ORG",
+        "text": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)"
+      },
+      {
+        "label": "TEMA",
+        "text": "tecnologia"
+      },
+      {
+        "label": "CARGO",
+        "text": "cientistas"
+      },
+      {
+        "label": "VALOR",
+        "text": "R$ 15"
+      },
+      {
+        "label": "ORG",
+        "text": "SUS"
+      },
+      {
+        "label": "VALOR",
+        "text": "2025"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério da Saúde"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "VALOR",
+        "text": "30%"
+      },
+      {
+        "label": "TEMA",
+        "text": "dengue"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "ORG",
+        "text": "Nature Biomedical Engineering"
+      }
+    ]
+  },
+  {
+    "text": "O Google anunciou a abertura de um novo centro de pesquisa em inteligência artificial no Brasil. A unidade será instalada na cidade de Belo Horizonte, em Minas Gerais. O investimento total é estimado em US$ 120 milhões. O objetivo é desenvolver soluções locais em linguagem natural e visão computacional. A empresa informou que pretende contratar 200 engenheiros e cientistas de dados até 2026. O projeto faz parte da estratégia global do Google de expandir seus laboratórios de IA para países emergentes. O ministro da Ciência, Tecnologia e Inovação, Luciana Santos, participou da cerimônia de inauguração. Ela destacou que o Brasil tem potencial para se tornar referência em IA ética e sustentável. Pesquisadores da UFMG e da USP serão parceiros no desenvolvimento dos algoritmos. A expectativa é que o centro estimule startups e a inovação tecnológica na região.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "TEMA",
+        "text": "inteligência artificial"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "LOC",
+        "text": "Belo Horizonte"
+      },
+      {
+        "label": "LOC",
+        "text": "Minas Gerais"
+      },
+      {
+        "label": "VALOR",
+        "text": "US$ 120 milhões"
+      },
+      {
+        "label": "TEMA",
+        "text": "linguagem natural"
+      },
+      {
+        "label": "TEMA",
+        "text": "visão computacional"
+      },
+      {
+        "label": "VALOR",
+        "text": "200"
+      },
+      {
+        "label": "CARGO",
+        "text": "engenheiros"
+      },
+      {
+        "label": "CARGO",
+        "text": "cientistas de dados"
+      },
+      {
+        "label": "VALOR",
+        "text": "2026"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "TEMA",
+        "text": "IA"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro da Ciência, Tecnologia e Inovação"
+      },
+      {
+        "label": "PER",
+        "text": "Luciana Santos"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "TEMA",
+        "text": "IA ética e sustentável"
+      },
+      {
+        "label": "CARGO",
+        "text": "Pesquisadores"
+      },
+      {
+        "label": "ORG",
+        "text": "UFMG"
+      },
+      {
+        "label": "ORG",
+        "text": "USP"
+      },
+      {
+        "label": "TEMA",
+        "text": "inovação tecnológica"
+      }
+    ]
+  },
+  {
+    "text": "O Banco Central manteve a taxa Selic em 10,75% ao ano, interrompendo o ciclo de cortes iniciado em 2023. A decisão foi unânime entre os membros do Comitê de Política Monetária (Copom). Segundo o comunicado, a autoridade monetária avaliou que a inflação ainda apresenta riscos significativos. O presidente do BC, Roberto Campos Neto, destacou que o cenário externo exige cautela. Analistas do mercado financeiro esperavam uma redução de 0,25 ponto percentual. Após o anúncio, o real se valorizou frente ao dólar. Investidores interpretaram a decisão como sinal de responsabilidade fiscal. O Ministério da Fazenda afirmou que continua comprometido com o controle das contas públicas. Especialistas acreditam que a taxa pode voltar a cair em 2026, caso a inflação permaneça sob controle. O próximo encontro do Copom está marcado para dezembro.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Banco Central"
+      },
+      {
+        "label": "TEMA",
+        "text": "taxa Selic"
+      },
+      {
+        "label": "VALOR",
+        "text": "10,75%"
+      },
+      {
+        "label": "VALOR",
+        "text": "2023"
+      },
+      {
+        "label": "ORG",
+        "text": "Comitê de Política Monetária (Copom)"
+      },
+      {
+        "label": "TEMA",
+        "text": "inflação"
+      },
+      {
+        "label": "CARGO",
+        "text": "presidente do BC"
+      },
+      {
+        "label": "PER",
+        "text": "Roberto Campos Neto"
+      },
+      {
+        "label": "CARGO",
+        "text": "Analistas do mercado financeiro"
+      },
+      {
+        "label": "VALOR",
+        "text": "0,25 ponto percentual"
+      },
+      {
+        "label": "TEMA",
+        "text": "responsabilidade fiscal"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério da Fazenda"
+      },
+      {
+        "label": "TEMA",
+        "text": "controle das contas públicas"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "VALOR",
+        "text": "2026"
+      },
+      {
+        "label": "TEMA",
+        "text": "inflação"
+      },
+      {
+        "label": "ORG",
+        "text": "Copom"
+      },
+      {
+        "label": "VALOR",
+        "text": "dezembro"
+      }
+    ]
+  },
+  {
+    "text": "Uma onda de calor atingiu o Centro-Oeste e o Sudeste do Brasil nesta semana, com temperaturas acima de 40 graus. O Instituto Nacional de Meteorologia (Inmet) emitiu alerta de grande perigo para 12 estados. Em Goiânia, a sensação térmica chegou a 43°C nesta terça-feira. A população foi orientada a evitar exposição prolongada ao sol e a beber muita água. A Defesa Civil informou aumento de casos de desidratação e desmaios. Escolas públicas suspenderam atividades esportivas ao ar livre. Especialistas afirmam que o fenômeno está relacionado ao El Niño. Meteorologistas alertam que o calor deve persistir até o final do mês. Governos estaduais estudam medidas emergenciais para evitar colapso no sistema elétrico. O Ministério da Saúde recomendou cuidados redobrados com crianças e idosos.",
+    "predicted_entities": [
+      {
+        "label": "TEMA",
+        "text": "onda de calor"
+      },
+      {
+        "label": "LOC",
+        "text": "Centro-Oeste"
+      },
+      {
+        "label": "LOC",
+        "text": "Sudeste"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "VALOR",
+        "text": "40 graus"
+      },
+      {
+        "label": "ORG",
+        "text": "Instituto Nacional de Meteorologia"
+      },
+      {
+        "label": "ORG",
+        "text": "Inmet"
+      },
+      {
+        "label": "VALOR",
+        "text": "12"
+      },
+      {
+        "label": "LOC",
+        "text": "Goiânia"
+      },
+      {
+        "label": "VALOR",
+        "text": "43°C"
+      },
+      {
+        "label": "ORG",
+        "text": "Defesa Civil"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "El Niño"
+      },
+      {
+        "label": "CARGO",
+        "text": "Meteorologistas"
+      },
+      {
+        "label": "ORG",
+        "text": "Governos estaduais"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério da Saúde"
+      }
+    ]
+  },
+  {
+    "text": "A Organização das Nações Unidas (ONU) divulgou um relatório alertando para o aumento do desmatamento na Amazônia. Segundo o documento, o Brasil perdeu 12 mil km² de floresta em 2024. O número representa um crescimento de 8% em relação ao ano anterior. O relatório foi apresentado em Genebra, na Suíça. O governo brasileiro afirmou que está reforçando as operações de fiscalização. O ministro do Meio Ambiente, Marina Silva, disse que o desmatamento ilegal será combatido com mais rigor. Organizações ambientais criticaram a lentidão das medidas. O Greenpeace alertou que a destruição ameaça a biodiversidade e o equilíbrio climático. Cientistas destacam que a recuperação da floresta exige políticas de longo prazo. O relatório também aponta avanço do garimpo em áreas de proteção indígena.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Organização das Nações Unidas"
+      },
+      {
+        "label": "ORG",
+        "text": "ONU"
+      },
+      {
+        "label": "TEMA",
+        "text": "desmatamento"
+      },
+      {
+        "label": "LOC",
+        "text": "Amazônia"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "VALOR",
+        "text": "12 mil km²"
+      },
+      {
+        "label": "VALOR",
+        "text": "2024"
+      },
+      {
+        "label": "VALOR",
+        "text": "8%"
+      },
+      {
+        "label": "LOC",
+        "text": "Genebra"
+      },
+      {
+        "label": "LOC",
+        "text": "Suíça"
+      },
+      {
+        "label": "ORG",
+        "text": "governo brasileiro"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro do Meio Ambiente"
+      },
+      {
+        "label": "PER",
+        "text": "Marina Silva"
+      },
+      {
+        "label": "ORG",
+        "text": "Greenpeace"
+      },
+      {
+        "label": "TEMA",
+        "text": "biodiversidade"
+      },
+      {
+        "label": "TEMA",
+        "text": "equilíbrio climático"
+      },
+      {
+        "label": "CARGO",
+        "text": "Cientistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "garimpo"
+      }
+    ]
+  },
+  {
+    "text": "O Ministério da Educação anunciou mudanças no Exame Nacional do Ensino Médio (Enem) a partir de 2026. A principal novidade será a inclusão de questões adaptativas, que variam de acordo com o desempenho do aluno. O objetivo é tornar o exame mais dinâmico e preciso na avaliação. O ministro Camilo Santana afirmou que o novo formato seguirá modelos utilizados nos Estados Unidos e na Europa. A redação continuará sendo obrigatória. O Inep informou que os testes pilotos começarão no segundo semestre de 2025. Especialistas acreditam que o modelo pode reduzir desigualdades regionais. Professores pedem mais transparência sobre o algoritmo de correção. Estudantes demonstraram curiosidade e preocupação nas redes sociais. O MEC garante que a transição será gradual e segura.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Ministério da Educação"
+      },
+      {
+        "label": "TEMA",
+        "text": "Exame Nacional do Ensino Médio"
+      },
+      {
+        "label": "TEMA",
+        "text": "Enem"
+      },
+      {
+        "label": "VALOR",
+        "text": "2026"
+      },
+      {
+        "label": "TEMA",
+        "text": "questões adaptativas"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro"
+      },
+      {
+        "label": "PER",
+        "text": "Camilo Santana"
+      },
+      {
+        "label": "LOC",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "LOC",
+        "text": "Europa"
+      },
+      {
+        "label": "ORG",
+        "text": "Inep"
+      },
+      {
+        "label": "VALOR",
+        "text": "2025"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "CARGO",
+        "text": "Professores"
+      },
+      {
+        "label": "CARGO",
+        "text": "Estudantes"
+      },
+      {
+        "label": "ORG",
+        "text": "MEC"
+      }
+    ]
+  },
+  {
+    "text": "A startup brasileira AgroTech Solutions lançou um sistema de irrigação inteligente para pequenas propriedades rurais. A tecnologia utiliza sensores e algoritmos de aprendizado de máquina para otimizar o uso da água. O produto foi desenvolvido em parceria com a Embrapa e a Universidade Federal de Viçosa. Segundo os criadores, o sistema pode reduzir o consumo de água em até 40%. O projeto recebeu apoio do BNDES e da Finep. Agricultores do interior de Minas Gerais participam dos primeiros testes. O CEO da AgroTech, Rafael Costa, afirmou que o objetivo é democratizar o acesso à tecnologia no campo. O sistema também fornece relatórios automáticos sobre produtividade e umidade do solo. O Ministério da Agricultura destacou o potencial da iniciativa para combater os efeitos das secas. A empresa planeja exportar o produto para outros países da América Latina.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "AgroTech Solutions"
+      },
+      {
+        "label": "TEMA",
+        "text": "sistema de irrigação inteligente"
+      },
+      {
+        "label": "ORG",
+        "text": "Embrapa"
+      },
+      {
+        "label": "ORG",
+        "text": "Universidade Federal de Viçosa"
+      },
+      {
+        "label": "VALOR",
+        "text": "40%"
+      },
+      {
+        "label": "ORG",
+        "text": "BNDES"
+      },
+      {
+        "label": "ORG",
+        "text": "Finep"
+      },
+      {
+        "label": "CARGO",
+        "text": "Agricultores"
+      },
+      {
+        "label": "LOC",
+        "text": "Minas Gerais"
+      },
+      {
+        "label": "CARGO",
+        "text": "CEO da AgroTech"
+      },
+      {
+        "label": "PER",
+        "text": "Rafael Costa"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério da Agricultura"
+      },
+      {
+        "label": "TEMA",
+        "text": "secas"
+      },
+      {
+        "label": "LOC",
+        "text": "América Latina"
+      }
+    ]
+  },
+  {
+    "text": "O Congresso Nacional aprovou nesta terça-feira o novo Marco Legal da Indústria Verde. O projeto prevê incentivos fiscais para empresas que reduzirem emissões de carbono e investirem em energia limpa. A proposta segue agora para sanção do presidente Lula. O ministro da Indústria e Comércio, Geraldo Alckmin, afirmou que a medida pode atrair até R$ 80 bilhões em investimentos privados. Ambientalistas elogiaram o avanço, mas cobram regras mais rígidas contra a poluição industrial. A Confederação Nacional da Indústria acredita que o marco impulsionará exportações de produtos sustentáveis. O texto prevê ainda linhas de crédito especiais do BNDES para empresas que cumprirem metas ambientais.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Congresso Nacional"
+      },
+      {
+        "label": "TEMA",
+        "text": "Marco Legal da Indústria Verde"
+      },
+      {
+        "label": "TEMA",
+        "text": "emissões de carbono"
+      },
+      {
+        "label": "TEMA",
+        "text": "energia limpa"
+      },
+      {
+        "label": "CARGO",
+        "text": "presidente"
+      },
+      {
+        "label": "PER",
+        "text": "Lula"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro da Indústria e Comércio"
+      },
+      {
+        "label": "PER",
+        "text": "Geraldo Alckmin"
+      },
+      {
+        "label": "VALOR",
+        "text": "R$ 80 bilhões"
+      },
+      {
+        "label": "CARGO",
+        "text": "Ambientalistas"
+      },
+      {
+        "label": "ORG",
+        "text": "Confederação Nacional da Indústria"
+      },
+      {
+        "label": "ORG",
+        "text": "BNDES"
+      }
+    ]
+  },
+  {
+    "text": "A Embraer anunciou uma parceria com a Força Aérea Brasileira para o desenvolvimento de um novo modelo de avião elétrico de treinamento militar. O projeto, chamado de E-TALON, deve ter o primeiro protótipo concluído até 2027. A aeronave utilizará baterias de lítio nacionais produzidas no Ceará. O presidente da Embraer, Francisco Gomes Neto, destacou que o projeto coloca o Brasil entre os líderes em aviação sustentável. A FAB pretende substituir progressivamente seus modelos mais antigos. Especialistas afirmam que o setor militar impulsionará tecnologias verdes nos próximos anos.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Embraer"
+      },
+      {
+        "label": "ORG",
+        "text": "Força Aérea Brasileira"
+      },
+      {
+        "label": "TEMA",
+        "text": "avião elétrico"
+      },
+      {
+        "label": "TEMA",
+        "text": "treinamento militar"
+      },
+      {
+        "label": "TEMA",
+        "text": "E-TALON"
+      },
+      {
+        "label": "VALOR",
+        "text": "2027"
+      },
+      {
+        "label": "LOC",
+        "text": "Ceará"
+      },
+      {
+        "label": "CARGO",
+        "text": "presidente da Embraer"
+      },
+      {
+        "label": "PER",
+        "text": "Francisco Gomes Neto"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "TEMA",
+        "text": "aviação sustentável"
+      },
+      {
+        "label": "ORG",
+        "text": "FAB"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "setor militar"
+      },
+      {
+        "label": "TEMA",
+        "text": "tecnologias verdes"
+      }
+    ]
+  },
+  {
+    "text": "A cidade de Recife implantou o primeiro corredor de ônibus 100% autônomo do país. Os veículos utilizam sensores, GPS e inteligência artificial para circular sem motorista em horários específicos. O projeto foi desenvolvido em parceria com a Universidade Federal de Pernambuco. A prefeitura afirma que o sistema reduzirá atrasos e ampliará a segurança. Motoristas do transporte coletivo criticaram a falta de diálogo sobre o impacto trabalhista. Testes seguirão por seis meses antes da expansão para outras linhas.",
+    "predicted_entities": [
+      {
+        "label": "LOC",
+        "text": "Recife"
+      },
+      {
+        "label": "TEMA",
+        "text": "corredor de ônibus 100% autônomo"
+      },
+      {
+        "label": "VALOR",
+        "text": "100%"
+      },
+      {
+        "label": "LOC",
+        "text": "país"
+      },
+      {
+        "label": "TEMA",
+        "text": "GPS"
+      },
+      {
+        "label": "TEMA",
+        "text": "inteligência artificial"
+      },
+      {
+        "label": "CARGO",
+        "text": "motorista"
+      },
+      {
+        "label": "ORG",
+        "text": "Universidade Federal de Pernambuco"
+      },
+      {
+        "label": "ORG",
+        "text": "prefeitura"
+      },
+      {
+        "label": "TEMA",
+        "text": "segurança"
+      },
+      {
+        "label": "CARGO",
+        "text": "Motoristas"
+      },
+      {
+        "label": "TEMA",
+        "text": "impacto trabalhista"
+      },
+      {
+        "label": "VALOR",
+        "text": "seis meses"
+      }
+    ]
+  },
+  {
+    "text": "O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou que a população brasileira chegou a 205,7 milhões de habitantes em 2025. O crescimento foi puxado principalmente pelas regiões Norte e Nordeste. A taxa de natalidade continua em queda no Sudeste. O levantamento mostra também aumento da expectativa de vida, agora estimada em 77,6 anos. Economistas afirmam que o envelhecimento populacional exigirá maior investimento em saúde e previdência. O governo estuda políticas para incentivar a natalidade.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Instituto Brasileiro de Geografia e Estatística"
+      },
+      {
+        "label": "ORG",
+        "text": "IBGE"
+      },
+      {
+        "label": "TEMA",
+        "text": "população brasileira"
+      },
+      {
+        "label": "VALOR",
+        "text": "205,7 milhões"
+      },
+      {
+        "label": "VALOR",
+        "text": "2025"
+      },
+      {
+        "label": "LOC",
+        "text": "Norte"
+      },
+      {
+        "label": "LOC",
+        "text": "Nordeste"
+      },
+      {
+        "label": "TEMA",
+        "text": "taxa de natalidade"
+      },
+      {
+        "label": "LOC",
+        "text": "Sudeste"
+      },
+      {
+        "label": "TEMA",
+        "text": "expectativa de vida"
+      },
+      {
+        "label": "VALOR",
+        "text": "77,6 anos"
+      },
+      {
+        "label": "CARGO",
+        "text": "Economistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "envelhecimento populacional"
+      },
+      {
+        "label": "TEMA",
+        "text": "saúde"
+      },
+      {
+        "label": "TEMA",
+        "text": "previdência"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "TEMA",
+        "text": "natalidade"
+      }
+    ]
+  },
+  {
+    "text": "O Ministério dos Transportes iniciou a construção de um túnel subfluvial que ligará Salvador a Itaparica. A obra, considerada a maior do tipo na América Latina, terá 12 km de extensão. A previsão de entrega é 2031. O projeto promete reduzir o tempo de deslocamento em 70%. Ambientalistas pedem mais estudos sobre o impacto marinho. O governo da Bahia afirma que a obra seguirá normas internacionais de proteção ambiental.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Ministério dos Transportes"
+      },
+      {
+        "label": "TEMA",
+        "text": "túnel subfluvial"
+      },
+      {
+        "label": "LOC",
+        "text": "Salvador"
+      },
+      {
+        "label": "LOC",
+        "text": "Itaparica"
+      },
+      {
+        "label": "LOC",
+        "text": "América Latina"
+      },
+      {
+        "label": "VALOR",
+        "text": "12 km"
+      },
+      {
+        "label": "VALOR",
+        "text": "2031"
+      },
+      {
+        "label": "VALOR",
+        "text": "70%"
+      },
+      {
+        "label": "CARGO",
+        "text": "Ambientalistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "impacto marinho"
+      },
+      {
+        "label": "ORG",
+        "text": "governo da Bahia"
+      },
+      {
+        "label": "TEMA",
+        "text": "proteção ambiental"
+      }
+    ]
+  },
+  {
+    "text": "A Bolsa de Valores de São Paulo (B3) anunciou a criação de um índice exclusivo para startups listadas. O novo indicador, chamado de B3 Tech Start, incluirá empresas de tecnologia com receita anual inferior a R$ 500 milhões. A iniciativa busca atrair investidores interessados em inovação. Analistas avaliam que o índice pode impulsionar o ecossistema de empreendedorismo no país. A B3 informou que as primeiras empresas devem estrear ainda este ano.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Bolsa de Valores de São Paulo"
+      },
+      {
+        "label": "ORG",
+        "text": "B3"
+      },
+      {
+        "label": "TEMA",
+        "text": "startups"
+      },
+      {
+        "label": "TEMA",
+        "text": "B3 Tech Start"
+      },
+      {
+        "label": "TEMA",
+        "text": "empresas de tecnologia"
+      },
+      {
+        "label": "VALOR",
+        "text": "R$ 500 milhões"
+      },
+      {
+        "label": "CARGO",
+        "text": "investidores"
+      },
+      {
+        "label": "TEMA",
+        "text": "inovação"
+      },
+      {
+        "label": "CARGO",
+        "text": "Analistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "ecossistema de empreendedorismo"
+      },
+      {
+        "label": "LOC",
+        "text": "país"
+      },
+      {
+        "label": "ORG",
+        "text": "B3"
+      },
+      {
+        "label": "VALOR",
+        "text": "este ano"
+      }
+    ]
+  },
+  {
+    "text": "A produção de café no Brasil deve atingir recorde histórico em 2025, segundo a Conab. A estimativa é de 77 milhões de sacas colhidas. O clima favorável e o uso crescente de tecnologia agrícola impulsionaram os resultados. Minas Gerais segue como maior produtor nacional. Exportadores comemoram e esperam expansão para novos mercados asiáticos. O preço do café pode cair no mercado interno devido à alta oferta.",
+    "predicted_entities": [
+      {
+        "label": "TEMA",
+        "text": "produção de café"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "VALOR",
+        "text": "2025"
+      },
+      {
+        "label": "ORG",
+        "text": "Conab"
+      },
+      {
+        "label": "VALOR",
+        "text": "77 milhões"
+      },
+      {
+        "label": "TEMA",
+        "text": "tecnologia agrícola"
+      },
+      {
+        "label": "LOC",
+        "text": "Minas Gerais"
+      },
+      {
+        "label": "CARGO",
+        "text": "produtor nacional"
+      },
+      {
+        "label": "CARGO",
+        "text": "Exportadores"
+      },
+      {
+        "label": "LOC",
+        "text": "mercados asiáticos"
+      },
+      {
+        "label": "TEMA",
+        "text": "café"
+      }
+    ]
+  },
+  {
+    "text": "A prefeitura do Rio de Janeiro lançou um programa de revitalização da orla de Copacabana. O projeto inclui novas ciclovias, reformas de quiosques e ampliação das áreas verdes. As obras devem durar dois anos. Moradores apoiam a iniciativa, mas pedem mais atenção à segurança pública. O município espera atrair mais turistas internacionais com a modernização. O Ministério do Turismo prometeu liberar recursos adicionais.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "prefeitura do Rio de Janeiro"
+      },
+      {
+        "label": "LOC",
+        "text": "Rio de Janeiro"
+      },
+      {
+        "label": "TEMA",
+        "text": "revitalização da orla"
+      },
+      {
+        "label": "LOC",
+        "text": "Copacabana"
+      },
+      {
+        "label": "VALOR",
+        "text": "dois anos"
+      },
+      {
+        "label": "TEMA",
+        "text": "segurança pública"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério do Turismo"
+      }
+    ]
+  },
+  {
+    "text": "Pesquisadores da Universidade Federal do Paraná descobriram uma nova espécie de peixe em rios da Mata Atlântica. O animal, de apenas 3 cm, foi batizado de Characidium paranaensis. A espécie vive em águas extremamente limpas, o que indica bom estado de conservação da região. Os cientistas destacam a importância de proteger rios ameaçados pela poluição. O estudo será publicado na Biological Conservation.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Pesquisadores"
+      },
+      {
+        "label": "ORG",
+        "text": "Universidade Federal do Paraná"
+      },
+      {
+        "label": "LOC",
+        "text": "Mata Atlântica"
+      },
+      {
+        "label": "VALOR",
+        "text": "3 cm"
+      },
+      {
+        "label": "TEMA",
+        "text": "conservação"
+      },
+      {
+        "label": "CARGO",
+        "text": "cientistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "poluição"
+      },
+      {
+        "label": "ORG",
+        "text": "Biological Conservation"
+      }
+    ]
+  },
+  {
+    "text": "O Ministério da Cultura anunciou uma nova política de incentivo para museus regionais. O programa prevê R$ 500 milhões para modernização de acervos e digitalização de documentos históricos. A ministra Margareth Menezes afirmou que o objetivo é democratizar o acesso ao patrimônio cultural. Museus do Norte e Nordeste serão prioridade. Especialistas comemoram o investimento inédito.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Ministério da Cultura"
+      },
+      {
+        "label": "TEMA",
+        "text": "política de incentivo"
+      },
+      {
+        "label": "VALOR",
+        "text": "R$ 500 milhões"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministra"
+      },
+      {
+        "label": "PER",
+        "text": "Margareth Menezes"
+      },
+      {
+        "label": "TEMA",
+        "text": "patrimônio cultural"
+      },
+      {
+        "label": "LOC",
+        "text": "Norte"
+      },
+      {
+        "label": "LOC",
+        "text": "Nordeste"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      }
+    ]
+  },
+  {
+    "text": "O setor de energia eólica bateu recorde de geração no Nordeste nesta semana, suprindo 65% da demanda elétrica da região. Segundo o ONS, o vento forte favoreceu a produção em parques do Rio Grande do Norte e da Bahia. O governo estima que a fonte continuará crescendo nos próximos anos. Especialistas defendem expansão da rede de transmissão para evitar desperdício de energia gerada.",
+    "predicted_entities": [
+      {
+        "label": "TEMA",
+        "text": "energia eólica"
+      },
+      {
+        "label": "LOC",
+        "text": "Nordeste"
+      },
+      {
+        "label": "VALOR",
+        "text": "65%"
+      },
+      {
+        "label": "TEMA",
+        "text": "demanda elétrica"
+      },
+      {
+        "label": "ORG",
+        "text": "ONS"
+      },
+      {
+        "label": "LOC",
+        "text": "Rio Grande do Norte"
+      },
+      {
+        "label": "LOC",
+        "text": "Bahia"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "rede de transmissão"
+      },
+      {
+        "label": "TEMA",
+        "text": "energia gerada"
+      }
+    ]
+  },
+  {
+    "text": "A Câmara dos Deputados aprovou a criação do Fundo Nacional de Segurança Digital. O novo órgão terá como missão combater crimes cibernéticos e proteger dados sensíveis do governo. A medida foi apoiada por todas as bancadas. O ministro da Justiça, Ricardo Lewandowski, destacou que ataques virtuais aumentaram 30% no último ano. O fundo financiará treinamento de agentes e novas tecnologias de proteção.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Câmara dos Deputados"
+      },
+      {
+        "label": "ORG",
+        "text": "Fundo Nacional de Segurança Digital"
+      },
+      {
+        "label": "TEMA",
+        "text": "crimes cibernéticos"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro da Justiça"
+      },
+      {
+        "label": "PER",
+        "text": "Ricardo Lewandowski"
+      },
+      {
+        "label": "TEMA",
+        "text": "ataques virtuais"
+      },
+      {
+        "label": "VALOR",
+        "text": "30%"
+      }
+    ]
+  },
+  {
+    "text": "O metrô de São Paulo iniciou testes com portas automáticas nas plataformas da Linha 1-Azul. O objetivo é reduzir acidentes e melhorar a fluidez do embarque. A implantação completa deve acontecer até 2027. Passageiros elogiaram a novidade. Técnicos alertam para a necessidade de adequações estruturais em algumas estações mais antigas.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "metrô de São Paulo"
+      },
+      {
+        "label": "LOC",
+        "text": "São Paulo"
+      },
+      {
+        "label": "TEMA",
+        "text": "portas automáticas"
+      },
+      {
+        "label": "LOC",
+        "text": "Linha 1-Azul"
+      },
+      {
+        "label": "TEMA",
+        "text": "acidentes"
+      },
+      {
+        "label": "VALOR",
+        "text": "2027"
+      },
+      {
+        "label": "CARGO",
+        "text": "Técnicos"
+      }
+    ]
+  },
+  {
+    "text": "A cidade de Manaus inaugurou seu primeiro hospital veterinário público. A unidade oferece atendimento gratuito para animais domésticos e de rua. O prefeito afirmou que o objetivo é reduzir o abandono e promover saúde animal. A clínica conta com centro cirúrgico, laboratório e setor de vacinação. ONGs comemoraram a iniciativa e pedem expansão para outros municípios do Amazonas.",
+    "predicted_entities": [
+      {
+        "label": "LOC",
+        "text": "Manaus"
+      },
+      {
+        "label": "ORG",
+        "text": "hospital veterinário público"
+      },
+      {
+        "label": "CARGO",
+        "text": "prefeito"
+      },
+      {
+        "label": "TEMA",
+        "text": "saúde animal"
+      },
+      {
+        "label": "ORG",
+        "text": "ONGs"
+      },
+      {
+        "label": "LOC",
+        "text": "Amazonas"
+      }
+    ]
+  },
+  {
+    "text": "O Ministério da Defesa confirmou a criação de uma força-tarefa para combater o tráfico de armas na fronteira com o Paraguai. O grupo integrará Exército, Polícia Federal e Receita Federal. A operação pretende reduzir a entrada ilegal de armamentos no Brasil. Especialistas em segurança pública elogiaram a ação, mas defendem cooperação internacional mais ampla.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Ministério da Defesa"
+      },
+      {
+        "label": "TEMA",
+        "text": "tráfico de armas"
+      },
+      {
+        "label": "LOC",
+        "text": "Paraguai"
+      },
+      {
+        "label": "ORG",
+        "text": "Exército"
+      },
+      {
+        "label": "ORG",
+        "text": "Polícia Federal"
+      },
+      {
+        "label": "ORG",
+        "text": "Receita Federal"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas em segurança pública"
+      },
+      {
+        "label": "TEMA",
+        "text": "segurança pública"
+      },
+      {
+        "label": "TEMA",
+        "text": "cooperação internacional"
+      }
+    ]
+  },
+  {
+    "text": "A Agência Nacional de Energia Elétrica autorizou a construção de uma nova usina solar no Piauí. O empreendimento terá capacidade para abastecer 800 mil residências. O investimento total é de R$ 3,2 bilhões. A empresa responsável promete gerar 5 mil empregos diretos durante a obra. A usina deve entrar em operação em 2028.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Agência Nacional de Energia Elétrica"
+      },
+      {
+        "label": "TEMA",
+        "text": "usina solar"
+      },
+      {
+        "label": "LOC",
+        "text": "Piauí"
+      },
+      {
+        "label": "VALOR",
+        "text": "800 mil"
+      },
+      {
+        "label": "VALOR",
+        "text": "R$ 3,2 bilhões"
+      },
+      {
+        "label": "VALOR",
+        "text": "5 mil"
+      },
+      {
+        "label": "VALOR",
+        "text": "2028"
+      }
+    ]
+  },
+  {
+    "text": "Pesquisadores da Fiocruz identificaram uma mutação inédita em mosquitos Aedes aegypti no litoral paulista. A alteração genética pode aumentar a resistência do mosquito a inseticidas. O Ministério da Saúde afirmou que monitorará o avanço da mutação. Especialistas pedem reforço das campanhas de combate ao vetor. A descoberta foi publicada na revista PLOS Neglected Tropical Diseases.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Pesquisadores"
+      },
+      {
+        "label": "ORG",
+        "text": "Fiocruz"
+      },
+      {
+        "label": "TEMA",
+        "text": "mutação"
+      },
+      {
+        "label": "LOC",
+        "text": "litoral paulista"
+      },
+      {
+        "label": "TEMA",
+        "text": "resistência do mosquito a inseticidas"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério da Saúde"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "combate ao vetor"
+      },
+      {
+        "label": "ORG",
+        "text": "PLOS Neglected Tropical Diseases"
+      }
+    ]
+  },
+  {
+    "text": "O Tribunal Superior Eleitoral lançou uma plataforma de verificação de fatos integrada às urnas eletrônicas. Eleitores poderão consultar informações sobre candidatos e checar notícias suspeitas. O ministro Alexandre de Moraes afirmou que a ferramenta é crucial para combater desinformação. A novidade estreia nas eleições municipais de 2026.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Tribunal Superior Eleitoral"
+      },
+      {
+        "label": "TEMA",
+        "text": "verificação de fatos"
+      },
+      {
+        "label": "TEMA",
+        "text": "urnas eletrônicas"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro"
+      },
+      {
+        "label": "PER",
+        "text": "Alexandre de Moraes"
+      },
+      {
+        "label": "TEMA",
+        "text": "desinformação"
+      },
+      {
+        "label": "TEMA",
+        "text": "eleições municipais"
+      },
+      {
+        "label": "VALOR",
+        "text": "2026"
+      }
+    ]
+  },
+  {
+    "text": "A economia brasileira registrou crescimento de 2,3% no segundo trimestre de 2025, de acordo com o IBGE. O setor de serviços foi o principal responsável pela alta. A agropecuária apresentou leve retração devido à seca no Centro-Oeste. O Ministério da Fazenda comemorou o resultado e disse que o país mantém trajetória positiva. Analistas preveem desaceleração no final do ano.",
+    "predicted_entities": [
+      {
+        "label": "TEMA",
+        "text": "economia brasileira"
+      },
+      {
+        "label": "TEMA",
+        "text": "crescimento"
+      },
+      {
+        "label": "VALOR",
+        "text": "2,3%"
+      },
+      {
+        "label": "VALOR",
+        "text": "2025"
+      },
+      {
+        "label": "ORG",
+        "text": "IBGE"
+      },
+      {
+        "label": "TEMA",
+        "text": "setor de serviços"
+      },
+      {
+        "label": "TEMA",
+        "text": "agropecuária"
+      },
+      {
+        "label": "LOC",
+        "text": "Centro-Oeste"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério da Fazenda"
+      },
+      {
+        "label": "LOC",
+        "text": "país"
+      },
+      {
+        "label": "CARGO",
+        "text": "Analistas"
+      }
+    ]
+  },
+  {
+    "text": "A Polícia Federal realizou nesta quinta-feira uma megaoperação contra fraudes em licitações de obras escolares. Foram cumpridos 42 mandados de busca e apreensão em seis estados. Segundo as investigações, empresas superfaturavam contratos e entregavam materiais de baixa qualidade. O Ministério da Educação afirmou que colaborará com todas as apurações. Políticos locais são suspeitos de envolvimento.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Polícia Federal"
+      },
+      {
+        "label": "TEMA",
+        "text": "fraudes em licitações"
+      },
+      {
+        "label": "TEMA",
+        "text": "obras escolares"
+      },
+      {
+        "label": "VALOR",
+        "text": "42"
+      },
+      {
+        "label": "VALOR",
+        "text": "seis"
+      },
+      {
+        "label": "LOC",
+        "text": "seis estados"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério da Educação"
+      },
+      {
+        "label": "CARGO",
+        "text": "Políticos"
+      }
+    ]
+  },
+  {
+    "text": "O Ministério da Saúde anunciou a ampliação do programa Farmácia Popular para incluir medicamentos para tratamento de doenças autoimunes, como lúpus e artrite reumatoide. A iniciativa deve beneficiar cerca de 3 milhões de pessoas. Segundo a ministra Nísia Trindade, o objetivo é reduzir o custo do tratamento e ampliar o acesso à saúde especializada. Farmácias conveniadas terão até 90 dias para se adaptar às novas regras.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Ministério da Saúde"
+      },
+      {
+        "label": "ORG",
+        "text": "Farmácia Popular"
+      },
+      {
+        "label": "TEMA",
+        "text": "medicamentos"
+      },
+      {
+        "label": "TEMA",
+        "text": "doenças autoimunes"
+      },
+      {
+        "label": "TEMA",
+        "text": "lúpus"
+      },
+      {
+        "label": "TEMA",
+        "text": "artrite reumatoide"
+      },
+      {
+        "label": "VALOR",
+        "text": "3 milhões"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministra"
+      },
+      {
+        "label": "PER",
+        "text": "Nísia Trindade"
+      },
+      {
+        "label": "TEMA",
+        "text": "acesso à saúde especializada"
+      },
+      {
+        "label": "VALOR",
+        "text": "90 dias"
+      }
+    ]
+  },
+  {
+    "text": "A cidade de Curitiba iniciará em 2026 um projeto piloto de coleta de lixo totalmente automatizada. Os caminhões utilizarão braços robóticos para recolher resíduos sem intervenção humana. A prefeitura afirma que a medida reduzirá acidentes de trabalho e aumentará a eficiência. O projeto será testado em cinco bairros da capital paranaense.",
+    "predicted_entities": [
+      {
+        "label": "LOC",
+        "text": "Curitiba"
+      },
+      {
+        "label": "VALOR",
+        "text": "2026"
+      },
+      {
+        "label": "TEMA",
+        "text": "coleta de lixo totalmente automatizada"
+      },
+      {
+        "label": "ORG",
+        "text": "prefeitura"
+      },
+      {
+        "label": "TEMA",
+        "text": "acidentes de trabalho"
+      },
+      {
+        "label": "VALOR",
+        "text": "cinco"
+      },
+      {
+        "label": "LOC",
+        "text": "capital paranaense"
+      }
+    ]
+  },
+  {
+    "text": "A Petrobras concluiu a instalação de uma nova plataforma de exploração de petróleo no pré-sal da Bacia de Santos. A unidade, chamada P-85, tem capacidade para produzir 250 mil barris por dia. A estatal afirmou que a plataforma utiliza tecnologia de última geração para reduzir emissões poluentes. O governo espera aumento nas exportações de petróleo no próximo semestre.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Petrobras"
+      },
+      {
+        "label": "TEMA",
+        "text": "exploração de petróleo"
+      },
+      {
+        "label": "LOC",
+        "text": "pré-sal"
+      },
+      {
+        "label": "LOC",
+        "text": "Bacia de Santos"
+      },
+      {
+        "label": "VALOR",
+        "text": "250 mil"
+      },
+      {
+        "label": "ORG",
+        "text": "estatal"
+      },
+      {
+        "label": "TEMA",
+        "text": "tecnologia de última geração"
+      },
+      {
+        "label": "TEMA",
+        "text": "emissões poluentes"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "TEMA",
+        "text": "exportações de petróleo"
+      }
+    ]
+  },
+  {
+    "text": "O governo do Ceará lançou o programa Cidade Conectada, que promete levar internet de fibra óptica gratuitamente a 200 mil famílias de baixa renda. O projeto será executado em parceria público-privada. O governador afirmou que a inclusão digital é essencial para educação e empregabilidade. Escolas estaduais serão priorizadas na primeira fase.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "governo do Ceará"
+      },
+      {
+        "label": "LOC",
+        "text": "Ceará"
+      },
+      {
+        "label": "ORG",
+        "text": "Cidade Conectada"
+      },
+      {
+        "label": "TEMA",
+        "text": "internet de fibra óptica"
+      },
+      {
+        "label": "VALOR",
+        "text": "200 mil"
+      },
+      {
+        "label": "TEMA",
+        "text": "parceria público-privada"
+      },
+      {
+        "label": "CARGO",
+        "text": "governador"
+      },
+      {
+        "label": "TEMA",
+        "text": "inclusão digital"
+      },
+      {
+        "label": "TEMA",
+        "text": "educação"
+      },
+      {
+        "label": "TEMA",
+        "text": "empregabilidade"
+      },
+      {
+        "label": "ORG",
+        "text": "Escolas estaduais"
+      }
+    ]
+  },
+  {
+    "text": "A Câmara Municipal de Porto Alegre aprovou um plano de emergência para enchentes. O projeto inclui novas estações de bombeamento e ampliação do sistema de drenagem urbana. Após as fortes chuvas registradas no ano anterior, moradores pressionaram por ações mais rápidas. As obras devem começar no próximo trimestre.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Câmara Municipal de Porto Alegre"
+      },
+      {
+        "label": "LOC",
+        "text": "Porto Alegre"
+      },
+      {
+        "label": "TEMA",
+        "text": "plano de emergência para enchentes"
+      },
+      {
+        "label": "TEMA",
+        "text": "estações de bombeamento"
+      },
+      {
+        "label": "TEMA",
+        "text": "sistema de drenagem urbana"
+      },
+      {
+        "label": "TEMA",
+        "text": "fortes chuvas"
+      }
+    ]
+  },
+  {
+    "text": "A Marinha do Brasil lançou ao mar seu terceiro submarino da classe Riachuelo, o Tonelero. A cerimônia ocorreu no estaleiro de Itaguaí, no Rio de Janeiro. A embarcação conta com sistemas avançados de navegação e armamento. O presidente Lula destacou que o projeto fortalece a indústria naval brasileira. O submarino entrará em operação em 2027.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Marinha do Brasil"
+      },
+      {
+        "label": "VALOR",
+        "text": "terceiro"
+      },
+      {
+        "label": "LOC",
+        "text": "Itaguaí"
+      },
+      {
+        "label": "LOC",
+        "text": "Rio de Janeiro"
+      },
+      {
+        "label": "TEMA",
+        "text": "sistemas avançados de navegação e armamento"
+      },
+      {
+        "label": "CARGO",
+        "text": "presidente"
+      },
+      {
+        "label": "PER",
+        "text": "Lula"
+      },
+      {
+        "label": "TEMA",
+        "text": "indústria naval brasileira"
+      },
+      {
+        "label": "VALOR",
+        "text": "2027"
+      }
+    ]
+  },
+  {
+    "text": "A Agência Nacional de Aviação Civil autorizou voos comerciais com aeronaves elétricas de pequeno porte no Brasil. O primeiro modelo aprovado, fabricado por uma startup paulista, poderá transportar até oito passageiros. O governo afirma que a medida reduzirá emissões e custos operacionais. As primeiras rotas serão regionais.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Agência Nacional de Aviação Civil"
+      },
+      {
+        "label": "TEMA",
+        "text": "voos comerciais"
+      },
+      {
+        "label": "TEMA",
+        "text": "aeronaves elétricas"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "VALOR",
+        "text": "oito"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "TEMA",
+        "text": "emissões"
+      },
+      {
+        "label": "TEMA",
+        "text": "custos operacionais"
+      }
+    ]
+  },
+  {
+    "text": "A Universidade Federal da Bahia criou um laboratório especializado em estudos sobre racismo estrutural. O projeto recebeu investimentos de R$ 12 milhões do governo federal. Pesquisadores irão desenvolver políticas públicas e ferramentas educacionais. Líderes comunitários comemoraram a iniciativa.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Universidade Federal da Bahia"
+      },
+      {
+        "label": "TEMA",
+        "text": "racismo estrutural"
+      },
+      {
+        "label": "VALOR",
+        "text": "R$ 12 milhões"
+      },
+      {
+        "label": "ORG",
+        "text": "governo federal"
+      },
+      {
+        "label": "CARGO",
+        "text": "Pesquisadores"
+      },
+      {
+        "label": "TEMA",
+        "text": "políticas públicas"
+      },
+      {
+        "label": "TEMA",
+        "text": "ferramentas educacionais"
+      },
+      {
+        "label": "CARGO",
+        "text": "Líderes comunitários"
+      }
+    ]
+  },
+  {
+    "text": "O setor automotivo registrou crescimento de 9% nas vendas de carros híbridos em 2025. Segundo a Anfavea, o aumento é resultado de incentivos fiscais e da expansão de pontos de recarga. Modelos nacionais estão ganhando espaço no mercado. Especialistas acreditam que os híbridos devem superar os veículos a combustão até 2030.",
+    "predicted_entities": [
+      {
+        "label": "TEMA",
+        "text": "setor automotivo"
+      },
+      {
+        "label": "VALOR",
+        "text": "9%"
+      },
+      {
+        "label": "TEMA",
+        "text": "vendas de carros híbridos"
+      },
+      {
+        "label": "VALOR",
+        "text": "2025"
+      },
+      {
+        "label": "ORG",
+        "text": "Anfavea"
+      },
+      {
+        "label": "TEMA",
+        "text": "incentivos fiscais"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "veículos a combustão"
+      },
+      {
+        "label": "VALOR",
+        "text": "2030"
+      }
+    ]
+  },
+  {
+    "text": "A prefeitura de Belém anunciou a criação de parques urbanos flutuantes na Baía do Guajará. As estruturas serão construídas com materiais biodegradáveis e servirão como áreas de lazer e de preservação ambiental. O projeto faz parte da preparação da cidade para sediar a COP 30. Moradores elogiaram a proposta inovadora.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "prefeitura de Belém"
+      },
+      {
+        "label": "LOC",
+        "text": "Belém"
+      },
+      {
+        "label": "TEMA",
+        "text": "parques urbanos flutuantes"
+      },
+      {
+        "label": "LOC",
+        "text": "Baía do Guajará"
+      },
+      {
+        "label": "TEMA",
+        "text": "preservação ambiental"
+      },
+      {
+        "label": "TEMA",
+        "text": "COP 30"
+      },
+      {
+        "label": "CARGO",
+        "text": "Moradores"
+      }
+    ]
+  },
+  {
+    "text": "O Ministério da Justiça firmou parceria com empresas de tecnologia para desenvolver um sistema de reconhecimento facial capaz de identificar pessoas desaparecidas. O projeto-piloto será implantado em São Paulo e Brasília. ONGs afirmam que a ferramenta pode acelerar investigações, mas pedem garantias de privacidade.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Ministério da Justiça"
+      },
+      {
+        "label": "TEMA",
+        "text": "reconhecimento facial"
+      },
+      {
+        "label": "TEMA",
+        "text": "pessoas desaparecidas"
+      },
+      {
+        "label": "LOC",
+        "text": "São Paulo"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasília"
+      },
+      {
+        "label": "ORG",
+        "text": "ONGs"
+      },
+      {
+        "label": "TEMA",
+        "text": "investigações"
+      },
+      {
+        "label": "TEMA",
+        "text": "privacidade"
+      }
+    ]
+  },
+  {
+    "text": "A Secretaria de Educação do Amazonas anunciou a distribuição de tablets para alunos do ensino médio de escolas estaduais. Ao todo, 180 mil dispositivos serão entregues. O governo afirma que a medida reduz desigualdades no acesso a materiais pedagógicos. Professores receberão capacitação para uso da tecnologia em sala de aula.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Secretaria de Educação do Amazonas"
+      },
+      {
+        "label": "LOC",
+        "text": "Amazonas"
+      },
+      {
+        "label": "TEMA",
+        "text": "distribuição de tablets"
+      },
+      {
+        "label": "VALOR",
+        "text": "180 mil"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "TEMA",
+        "text": "acesso a materiais pedagógicos"
+      },
+      {
+        "label": "CARGO",
+        "text": "Professores"
+      },
+      {
+        "label": "TEMA",
+        "text": "tecnologia em sala de aula"
+      }
+    ]
+  },
+  {
+    "text": "A economia do Nordeste deve crescer 3,1% em 2025, segundo estimativas da Sudene. O setor de energias renováveis e o turismo são os principais motores da expansão. Estados como Rio Grande do Norte e Ceará puxam o avanço. Empresários estão otimistas com novos investimentos internacionais na região.",
+    "predicted_entities": [
+      {
+        "label": "TEMA",
+        "text": "economia"
+      },
+      {
+        "label": "LOC",
+        "text": "Nordeste"
+      },
+      {
+        "label": "VALOR",
+        "text": "3,1%"
+      },
+      {
+        "label": "VALOR",
+        "text": "2025"
+      },
+      {
+        "label": "ORG",
+        "text": "Sudene"
+      },
+      {
+        "label": "TEMA",
+        "text": "energias renováveis"
+      },
+      {
+        "label": "TEMA",
+        "text": "turismo"
+      },
+      {
+        "label": "LOC",
+        "text": "Rio Grande do Norte"
+      },
+      {
+        "label": "LOC",
+        "text": "Ceará"
+      },
+      {
+        "label": "CARGO",
+        "text": "Empresários"
+      },
+      {
+        "label": "TEMA",
+        "text": "investimentos internacionais"
+      }
+    ]
+  },
+  {
+    "text": "A Polícia Rodoviária Federal lançou um sistema com drones para monitorar rodovias em tempo real. Os equipamentos serão utilizados para identificar acidentes, furtos de carga e congestionamentos. A PRF afirma que a tecnologia permitirá respostas mais rápidas e maior segurança aos motoristas.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Polícia Rodoviária Federal"
+      },
+      {
+        "label": "TEMA",
+        "text": "sistema com drones para monitorar rodovias"
+      },
+      {
+        "label": "TEMA",
+        "text": "acidentes"
+      },
+      {
+        "label": "TEMA",
+        "text": "furtos de carga"
+      },
+      {
+        "label": "TEMA",
+        "text": "congestionamentos"
+      },
+      {
+        "label": "ORG",
+        "text": "PRF"
+      },
+      {
+        "label": "TEMA",
+        "text": "tecnologia"
+      },
+      {
+        "label": "TEMA",
+        "text": "segurança aos motoristas"
+      },
+      {
+        "label": "CARGO",
+        "text": "motoristas"
+      }
+    ]
+  },
+  {
+    "text": "A cidade de Florianópolis promoveu a primeira Conferência Nacional de Cidades Inteligentes. O evento reuniu especialistas de 15 países para debater soluções tecnológicas para transporte, energia e sustentabilidade urbana. O encontro resultou na assinatura de um acordo de cooperação internacional.",
+    "predicted_entities": [
+      {
+        "label": "LOC",
+        "text": "Florianópolis"
+      },
+      {
+        "label": "VALOR",
+        "text": "primeira"
+      },
+      {
+        "label": "ORG",
+        "text": "Conferência Nacional de Cidades Inteligentes"
+      },
+      {
+        "label": "CARGO",
+        "text": "especialistas"
+      },
+      {
+        "label": "VALOR",
+        "text": "15"
+      },
+      {
+        "label": "TEMA",
+        "text": "soluções tecnológicas para transporte, energia e sustentabilidade urbana"
+      },
+      {
+        "label": "TEMA",
+        "text": "acordo de cooperação internacional"
+      }
+    ]
+  },
+  {
+    "text": "A Gol Linhas Aéreas anunciou a abertura de uma nova rota direta entre Manaus e Bogotá. A empresa busca fortalecer sua presença na América do Sul. O Ministério do Turismo afirma que a conexão deve ampliar o fluxo de turistas na região amazônica. A operação começará em março de 2026.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Gol Linhas Aéreas"
+      },
+      {
+        "label": "TEMA",
+        "text": "nova rota direta"
+      },
+      {
+        "label": "LOC",
+        "text": "Manaus"
+      },
+      {
+        "label": "LOC",
+        "text": "Bogotá"
+      },
+      {
+        "label": "LOC",
+        "text": "América do Sul"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério do Turismo"
+      },
+      {
+        "label": "TEMA",
+        "text": "fluxo de turistas"
+      },
+      {
+        "label": "LOC",
+        "text": "região amazônica"
+      },
+      {
+        "label": "VALOR",
+        "text": "março de 2026"
+      }
+    ]
+  },
+  {
+    "text": "O Instituto Nacional de Pesquisas Espaciais lançou um satélite de monitoramento climático desenvolvido integralmente no Brasil. O equipamento fornecerá dados em tempo real sobre chuvas e queimadas. Cientistas afirmam que o satélite melhorará previsões e ações de prevenção. O projeto contou com apoio da Agência Espacial Europeia.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Instituto Nacional de Pesquisas Espaciais"
+      },
+      {
+        "label": "TEMA",
+        "text": "monitoramento climático"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "TEMA",
+        "text": "chuvas e queimadas"
+      },
+      {
+        "label": "CARGO",
+        "text": "Cientistas"
+      },
+      {
+        "label": "ORG",
+        "text": "Agência Espacial Europeia"
+      }
+    ]
+  },
+  {
+    "text": "A prefeitura de Fortaleza inaugurou o maior centro de reciclagem do Nordeste. A unidade tem capacidade para processar 400 toneladas de resíduos por dia. Catadores organizados em cooperativas participarão da gestão. O governo municipal afirma que a iniciativa reduzirá o lixo enviado a aterros sanitários.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "prefeitura de Fortaleza"
+      },
+      {
+        "label": "LOC",
+        "text": "Fortaleza"
+      },
+      {
+        "label": "TEMA",
+        "text": "reciclagem"
+      },
+      {
+        "label": "LOC",
+        "text": "Nordeste"
+      },
+      {
+        "label": "VALOR",
+        "text": "400 toneladas"
+      },
+      {
+        "label": "TEMA",
+        "text": "resíduos"
+      },
+      {
+        "label": "CARGO",
+        "text": "Catadores"
+      },
+      {
+        "label": "ORG",
+        "text": "governo municipal"
+      }
+    ]
+  },
+  {
+    "text": "O Banco Central anunciou a expansão do Real Digital para transações internacionais. A fase de testes incluirá parcerias com bancos do Chile e de Portugal. A instituição afirma que o objetivo é reduzir custos e agilizar transferências. Especialistas apontam que o Brasil está entre os países mais avançados em moeda digital pública.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Banco Central"
+      },
+      {
+        "label": "TEMA",
+        "text": "Real Digital"
+      },
+      {
+        "label": "TEMA",
+        "text": "transações internacionais"
+      },
+      {
+        "label": "LOC",
+        "text": "Chile"
+      },
+      {
+        "label": "LOC",
+        "text": "Portugal"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "TEMA",
+        "text": "moeda digital pública"
+      }
+    ]
+  },
+  {
+    "text": "Pesquisadores da Universidade Federal de Mato Grosso identificaram um fungo capaz de degradar plástico em até 45 dias. A descoberta pode revolucionar o manejo de resíduos sólidos. A equipe agora busca formas de produzir a enzima em larga escala. O estudo será enviado para publicação na revista Science.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Pesquisadores"
+      },
+      {
+        "label": "ORG",
+        "text": "Universidade Federal de Mato Grosso"
+      },
+      {
+        "label": "LOC",
+        "text": "Mato Grosso"
+      },
+      {
+        "label": "TEMA",
+        "text": "fungo"
+      },
+      {
+        "label": "TEMA",
+        "text": "degradar plástico"
+      },
+      {
+        "label": "VALOR",
+        "text": "45 dias"
+      },
+      {
+        "label": "TEMA",
+        "text": "resíduos sólidos"
+      },
+      {
+        "label": "TEMA",
+        "text": "enzima"
+      },
+      {
+        "label": "ORG",
+        "text": "Science"
+      }
+    ]
+  },
+  {
+    "text": "O Ministro da Fazenda, Fernando Haddad, detalhou em uma longa coletiva de imprensa em Brasília o novo arcabouço fiscal. A proposta, que visa substituir o antigo teto de gastos, foi apresentada a jornalistas e economistas. Analistas econômicos reagiram com cautela inicial, afirmando que, embora a intenção de controlar as contas públicas seja clara, a execução dependerá de negociação intensa. O foco agora se volta para o Congresso Nacional, onde o Presidente da Câmara, Arthur Lira, e o Presidente do Senado, Rodrigo Pacheco, terão papel crucial na aprovação e em possíveis alterações no texto.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministro da Fazenda"
+      },
+      {
+        "label": "PER",
+        "text": "Fernando Haddad"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasília"
+      },
+      {
+        "label": "TEMA",
+        "text": "arcabouço fiscal"
+      },
+      {
+        "label": "TEMA",
+        "text": "teto de gastos"
+      },
+      {
+        "label": "CARGO",
+        "text": "jornalistas"
+      },
+      {
+        "label": "CARGO",
+        "text": "economistas"
+      },
+      {
+        "label": "CARGO",
+        "text": "Analistas econômicos"
+      },
+      {
+        "label": "TEMA",
+        "text": "contas públicas"
+      },
+      {
+        "label": "ORG",
+        "text": "Congresso Nacional"
+      },
+      {
+        "label": "CARGO",
+        "text": "Presidente da Câmara"
+      },
+      {
+        "label": "PER",
+        "text": "Arthur Lira"
+      },
+      {
+        "label": "CARGO",
+        "text": "Presidente do Senado"
+      },
+      {
+        "label": "PER",
+        "text": "Rodrigo Pacheco"
+      }
+    ]
+  },
+  {
+    "text": "A Ministra da Saúde, Nísia Trindade, anunciou oficialmente a expansão da campanha de vacinação contra a dengue. A nova fase incluirá adolescentes de 10 a 14 anos em todo o território nacional, priorizando áreas de alta transmissão. Pesquisadores da Fiocruz, que participaram do desenvolvimento e validação dos testes, celebraram a medida como um avanço na saúde pública. No entanto, a ministra fez um alerta, reforçando que o combate ao mosquito Aedes aegypti, vetor da doença, continua sendo a principal estratégia de prevenção e deve envolver toda a sociedade.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministra da Saúde"
+      },
+      {
+        "label": "PER",
+        "text": "Nísia Trindade"
+      },
+      {
+        "label": "TEMA",
+        "text": "vacinação contra a dengue"
+      },
+      {
+        "label": "VALOR",
+        "text": "10 a 14 anos"
+      },
+      {
+        "label": "LOC",
+        "text": "território nacional"
+      },
+      {
+        "label": "CARGO",
+        "text": "Pesquisadores"
+      },
+      {
+        "label": "ORG",
+        "text": "Fiocruz"
+      },
+      {
+        "label": "TEMA",
+        "text": "saúde pública"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministra"
+      },
+      {
+        "label": "TEMA",
+        "text": "combate ao mosquito Aedes aegypti"
+      }
+    ]
+  },
+  {
+    "text": "A Ministra do Meio Ambiente e Mudança do Clima, Marina Silva, promoveu uma reunião de emergência com governadores dos estados que compõem a Amazônia Legal. O principal tema foi a reestruturação e aplicação dos recursos do Fundo Amazônia. Durante o encontro, foi decidido que o Ibama, órgão de fiscalização vinculado ao ministério, receberá fundos emergenciais para intensificar as operações de combate ao garimpo ilegal. Especialistas em conservação elogiaram a iniciativa, mas cobraram ações permanentes contra o crime ambiental.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministra do Meio Ambiente e Mudança do Clima"
+      },
+      {
+        "label": "PER",
+        "text": "Marina Silva"
+      },
+      {
+        "label": "CARGO",
+        "text": "governadores"
+      },
+      {
+        "label": "LOC",
+        "text": "Amazônia Legal"
+      },
+      {
+        "label": "ORG",
+        "text": "Fundo Amazônia"
+      },
+      {
+        "label": "ORG",
+        "text": "Ibama"
+      },
+      {
+        "label": "TEMA",
+        "text": "combate ao garimpo ilegal"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas em conservação"
+      },
+      {
+        "label": "TEMA",
+        "text": "crime ambiental"
+      }
+    ]
+  },
+  {
+    "text": "O Presidente do Banco Central, Roberto Campos Neto, deu declarações que agitaram o mercado financeiro. Ele sinalizou que o Comitê de Política Monetária (Copom) deve manter uma postura vigilante e técnica contra a inflação, mesmo com a pressão por cortes mais rápidos na taxa Selic. Segundo Campos Neto, o cenário internacional ainda exige cautela. Após o discurso, economistas de grandes bancos revisaram suas projeções para a Selic no final do ano, prevendo agora um ritmo mais lento de queda nos juros básicos da economia.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Presidente do Banco Central"
+      },
+      {
+        "label": "PER",
+        "text": "Roberto Campos Neto"
+      },
+      {
+        "label": "ORG",
+        "text": "Comitê de Política Monetária"
+      },
+      {
+        "label": "ORG",
+        "text": "Copom"
+      },
+      {
+        "label": "TEMA",
+        "text": "inflação"
+      },
+      {
+        "label": "TEMA",
+        "text": "taxa Selic"
+      },
+      {
+        "label": "PER",
+        "text": "Campos Neto"
+      },
+      {
+        "label": "CARGO",
+        "text": "economistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "Selic"
+      },
+      {
+        "label": "TEMA",
+        "text": "juros básicos da economia"
+      }
+    ]
+  },
+  {
+    "text": "O Ministro da Educação, Camilo Santana, lançou oficialmente o programa \"Pé de Meia\", uma nova política de poupança destinada a incentivar a permanência de jovens de baixa renda no ensino médio. O programa prevê um auxílio financeiro mensal e um bônus na conclusão dos estudos. Professores e diretores de escolas públicas, que participaram do evento de lançamento em Brasília, elogiaram a iniciativa. Eles destacam que a evasão escolar é um dos maiores desafios do país e que o incentivo financeiro pode ser decisivo para milhões de famílias.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministro da Educação"
+      },
+      {
+        "label": "PER",
+        "text": "Camilo Santana"
+      },
+      {
+        "label": "ORG",
+        "text": "Pé de Meia"
+      },
+      {
+        "label": "TEMA",
+        "text": "ensino médio"
+      },
+      {
+        "label": "CARGO",
+        "text": "Professores"
+      },
+      {
+        "label": "CARGO",
+        "text": "diretores de escolas públicas"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasília"
+      },
+      {
+        "label": "TEMA",
+        "text": "evasão escolar"
+      },
+      {
+        "label": "VALOR",
+        "text": "milhões"
+      }
+    ]
+  },
+  {
+    "text": "Em uma audiência pública no Senado, o Ministro da Justiça e Segurança Pública, Ricardo Lewandowski, defendeu enfaticamente a implementação de câmeras corporais em todas as polícias estaduais e federais. Ele argumentou que a medida é essencial para a transparência das ações policiais e para a proteção tanto do cidadão quanto do próprio agente. Especialistas em segurança pública presentes no debate apresentaram dados que mostram a redução da letalidade policial onde os equipamentos já são usados, embora sindicatos de policiais peçam regras mais claras sobre o uso das imagens.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "Senado"
+      },
+      {
+        "label": "CARGO",
+        "text": "Ministro da Justiça e Segurança Pública"
+      },
+      {
+        "label": "PER",
+        "text": "Ricardo Lewandowski"
+      },
+      {
+        "label": "TEMA",
+        "text": "implementação de câmeras corporais"
+      },
+      {
+        "label": "ORG",
+        "text": "polícias estaduais e federais"
+      },
+      {
+        "label": "TEMA",
+        "text": "transparência das ações policiais"
+      },
+      {
+        "label": "CARGO",
+        "text": "Especialistas em segurança pública"
+      },
+      {
+        "label": "TEMA",
+        "text": "redução da letalidade policial"
+      },
+      {
+        "label": "ORG",
+        "text": "sindicatos de policiais"
+      }
+    ]
+  },
+  {
+    "text": "O Ministro dos Transportes, Renan Filho, realizou uma inspeção técnica nas obras de duplicação da BR-101, no trecho que atravessa o Nordeste. A obra é considerada vital para o escoamento da produção regional. O ministro afirmou que o programa de concessões rodoviárias, que mistura investimento público e privado, é a principal estratégia do governo federal para destravar a logística nacional. Empresários do setor de transportes aguardam a conclusão da obra, que promete reduzir custos e o tempo de viagem significativamente.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministro dos Transportes"
+      },
+      {
+        "label": "PER",
+        "text": "Renan Filho"
+      },
+      {
+        "label": "LOC",
+        "text": "BR-101"
+      },
+      {
+        "label": "LOC",
+        "text": "Nordeste"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro"
+      },
+      {
+        "label": "TEMA",
+        "text": "concessões rodoviárias"
+      },
+      {
+        "label": "TEMA",
+        "text": "investimento público e privado"
+      },
+      {
+        "label": "ORG",
+        "text": "governo federal"
+      },
+      {
+        "label": "TEMA",
+        "text": "logística nacional"
+      },
+      {
+        "label": "CARGO",
+        "text": "Empresários"
+      }
+    ]
+  },
+  {
+    "text": "O Presidente da Confederação Nacional da Indústria (CNI), Ricardo Alban, apresentou formalmente ao governo federal um conjunto de propostas para a neoindustrialização do país. O plano, discutido com o Ministro do Desenvolvimento, Indústria e Comércio, Geraldo Alckmin, foca intensamente em inovação tecnológica e na transição energética. A CNI defende que, para aumentar a competitividade global, o Brasil precisa investir em indústrias verdes e na digitalização dos processos produtivos, exigindo uma política industrial clara de longo prazo.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Presidente da Confederação Nacional da Indústria"
+      },
+      {
+        "label": "ORG",
+        "text": "Confederação Nacional da Indústria"
+      },
+      {
+        "label": "ORG",
+        "text": "CNI"
+      },
+      {
+        "label": "PER",
+        "text": "Ricardo Alban"
+      },
+      {
+        "label": "ORG",
+        "text": "governo federal"
+      },
+      {
+        "label": "TEMA",
+        "text": "neoindustrialização"
+      },
+      {
+        "label": "CARGO",
+        "text": "Ministro do Desenvolvimento, Indústria e Comércio"
+      },
+      {
+        "label": "PER",
+        "text": "Geraldo Alckmin"
+      },
+      {
+        "label": "TEMA",
+        "text": "inovação tecnológica"
+      },
+      {
+        "label": "TEMA",
+        "text": "transição energética"
+      },
+      {
+        "label": "TEMA",
+        "text": "competitividade global"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "TEMA",
+        "text": "indústrias verdes"
+      },
+      {
+        "label": "TEMA",
+        "text": "digitalização dos processos produtivos"
+      },
+      {
+        "label": "TEMA",
+        "text": "política industrial"
+      }
+    ]
+  },
+  {
+    "text": "Uma equipe de pesquisadores da Unicamp (Universidade Estadual de Campinas) anunciou a descoberta de um novo biopesticida, desenvolvido a partir de uma bactéria encontrada no solo da Mata Atlântica. Segundo os cientistas, o produto tem alta eficácia contra pragas comuns da soja e do milho. A descoberta promete reduzir drasticamente o uso de agrotóxicos químicos na agricultura nacional, impactando positivamente a segurança alimentar e o meio ambiente. O próximo passo é conseguir investimento para a produção em larga escala.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "pesquisadores"
+      },
+      {
+        "label": "ORG",
+        "text": "Unicamp"
+      },
+      {
+        "label": "ORG",
+        "text": "Universidade Estadual de Campinas"
+      },
+      {
+        "label": "TEMA",
+        "text": "biopesticida"
+      },
+      {
+        "label": "LOC",
+        "text": "Mata Atlântica"
+      },
+      {
+        "label": "CARGO",
+        "text": "cientistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "soja"
+      },
+      {
+        "label": "TEMA",
+        "text": "milho"
+      },
+      {
+        "label": "TEMA",
+        "text": "agricultura nacional"
+      },
+      {
+        "label": "TEMA",
+        "text": "segurança alimentar"
+      },
+      {
+        "label": "TEMA",
+        "text": "meio ambiente"
+      }
+    ]
+  },
+  {
+    "text": "A Ministra dos Povos Indígenas, Sonia Guajajara, usou a tribuna da ONU durante um fórum permanente para denunciar o avanço alarmante do desmatamento e do garimpo ilegal em terras Yanomami. A ministra apresentou relatórios que mostram o impacto devastador na saúde e na segurança dos povos originários. Em resposta, o governo federal, através de um comitê interministerial, prometeu novas ações emergenciais de saúde e o envio de mais agentes da Força Nacional para garantir a segurança e expulsar os invasores da região.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministra dos Povos Indígenas"
+      },
+      {
+        "label": "PER",
+        "text": "Sonia Guajajara"
+      },
+      {
+        "label": "ORG",
+        "text": "ONU"
+      },
+      {
+        "label": "TEMA",
+        "text": "desmatamento"
+      },
+      {
+        "label": "TEMA",
+        "text": "garimpo ilegal"
+      },
+      {
+        "label": "LOC",
+        "text": "terras Yanomami"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministra"
+      },
+      {
+        "label": "TEMA",
+        "text": "saúde"
+      },
+      {
+        "label": "ORG",
+        "text": "governo federal"
+      },
+      {
+        "label": "ORG",
+        "text": "comitê interministerial"
+      },
+      {
+        "label": "CARGO",
+        "text": "agentes da Força Nacional"
+      },
+      {
+        "label": "ORG",
+        "text": "Força Nacional"
+      }
+    ]
+  },
+  {
+    "text": "O IBGE divulgou hoje que o Produto Interno Bruto (PIB) do país teve um crescimento modesto no último trimestre, e analistas de mercado já preveem um cenário desafiador para o próximo ano. O setor de serviços continua sendo o principal motor da economia, impulsionado pelo consumo das famílias. Em contrapartida, a indústria de transformação enfrenta sérios desafios, sofrendo com os juros altos que encarecem o crédito e com a concorrência de produtos importados. Economistas pedem medidas de incentivo à produção industrial.",
+    "predicted_entities": [
+      {
+        "label": "ORG",
+        "text": "IBGE"
+      },
+      {
+        "label": "TEMA",
+        "text": "Produto Interno Bruto"
+      },
+      {
+        "label": "TEMA",
+        "text": "PIB"
+      },
+      {
+        "label": "CARGO",
+        "text": "analistas de mercado"
+      },
+      {
+        "label": "TEMA",
+        "text": "setor de serviços"
+      },
+      {
+        "label": "TEMA",
+        "text": "economia"
+      },
+      {
+        "label": "TEMA",
+        "text": "indústria de transformação"
+      },
+      {
+        "label": "TEMA",
+        "text": "juros altos"
+      },
+      {
+        "label": "TEMA",
+        "text": "crédito"
+      },
+      {
+        "label": "CARGO",
+        "text": "Economistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "produção industrial"
+      }
+    ]
+  },
+  {
+    "text": "Especialistas em direito digital e representantes de empresas de tecnologia debateram intensamente o projeto de lei sobre a regulamentação da inteligência artificial em uma audiência no Senado Federal. O texto busca equilibrar a necessidade de inovação tecnológica com a urgente proteção de dados dos cidadãos e a definição de responsabilidades sobre os direitos autorais. O relator do projeto, Senador Eduardo Gomes, afirmou que o desafio é criar uma legislação que não sufoque o desenvolvimento, mas que impeça o uso antiético da tecnologia.",
+    "predicted_entities": [
+      {
+        "label": "TEMA",
+        "text": "direito digital"
+      },
+      {
+        "label": "TEMA",
+        "text": "empresas de tecnologia"
+      },
+      {
+        "label": "TEMA",
+        "text": "regulamentação da inteligência artificial"
+      },
+      {
+        "label": "ORG",
+        "text": "Senado Federal"
+      },
+      {
+        "label": "TEMA",
+        "text": "inovação tecnológica"
+      },
+      {
+        "label": "TEMA",
+        "text": "proteção de dados"
+      },
+      {
+        "label": "TEMA",
+        "text": "direitos autorais"
+      },
+      {
+        "label": "CARGO",
+        "text": "relator"
+      },
+      {
+        "label": "CARGO",
+        "text": "Senador"
+      },
+      {
+        "label": "PER",
+        "text": "Eduardo Gomes"
+      },
+      {
+        "label": "TEMA",
+        "text": "legislação"
+      }
+    ]
+  },
+  {
+    "text": "O Ministro da Agricultura e Pecuária, Carlos Fávaro, anunciou em evento em Brasília o novo Plano Safra, que contará com um volume recorde de financiamento para produtores rurais. Desta vez, o foco principal será em práticas sustentáveis. O governo informou que haverá linhas de crédito com juros reduzidos para quem investir em agricultura de baixo carbono, recuperação de pastagens e uso de bioinsumos, atendendo a uma demanda crescente do mercado internacional por produtos com rastreabilidade ambiental.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministro da Agricultura e Pecuária"
+      },
+      {
+        "label": "PER",
+        "text": "Carlos Fávaro"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasília"
+      },
+      {
+        "label": "TEMA",
+        "text": "Plano Safra"
+      },
+      {
+        "label": "TEMA",
+        "text": "financiamento para produtores rurais"
+      },
+      {
+        "label": "TEMA",
+        "text": "práticas sustentáveis"
+      },
+      {
+        "label": "ORG",
+        "text": "governo"
+      },
+      {
+        "label": "TEMA",
+        "text": "linhas de crédito"
+      },
+      {
+        "label": "TEMA",
+        "text": "agricultura de baixo carbono"
+      },
+      {
+        "label": "TEMA",
+        "text": "recuperação de pastagens"
+      },
+      {
+        "label": "TEMA",
+        "text": "uso de bioinsumos"
+      },
+      {
+        "label": "TEMA",
+        "text": "mercado internacional"
+      },
+      {
+        "label": "TEMA",
+        "text": "rastreabilidade ambiental"
+      }
+    ]
+  },
+  {
+    "text": "A Presidenta da Petrobras, Magda Chambriard, reafirmou em uma reunião com investidores que a empresa manterá seus planos de investir pesado na exploração da Margem Equatorial. Ela classificou a área como a fronteira de petróleo mais promissora do país. A decisão, no entanto, gerou críticas imediatas de ambientalistas e uma nota técnica do Ministério do Meio Ambiente. A Ministra Marina Silva alertou publicamente sobre os riscos de um desastre ambiental em uma região de extrema sensibilidade ecológica.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Presidenta da Petrobras"
+      },
+      {
+        "label": "PER",
+        "text": "Magda Chambriard"
+      },
+      {
+        "label": "ORG",
+        "text": "Petrobras"
+      },
+      {
+        "label": "LOC",
+        "text": "Margem Equatorial"
+      },
+      {
+        "label": "TEMA",
+        "text": "exploração da Margem Equatorial"
+      },
+      {
+        "label": "TEMA",
+        "text": "fronteira de petróleo"
+      },
+      {
+        "label": "LOC",
+        "text": "país"
+      },
+      {
+        "label": "ORG",
+        "text": "Ministério do Meio Ambiente"
+      },
+      {
+        "label": "CARGO",
+        "text": "Ministra"
+      },
+      {
+        "label": "PER",
+        "text": "Marina Silva"
+      },
+      {
+        "label": "TEMA",
+        "text": "desastre ambiental"
+      }
+    ]
+  },
+  {
+    "text": "A Ministra da Cultura, Margareth Menezes, relançou oficialmente a Lei Rouanet, agora com novas diretrizes que visam democratizar o acesso aos recursos e descentralizar os investimentos. A principal mudança é a maior pontuação para projetos de regiões fora do eixo Rio-São Paulo. Produtores culturais de pequeno e médio porte, especialmente do Norte e Nordeste, celebraram a retomada dos incentivos, vendo nela uma oportunidade para financiar projetos que valorizem a cultura regional e que antes não conseguiam captação.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministra da Cultura"
+      },
+      {
+        "label": "PER",
+        "text": "Margareth Menezes"
+      },
+      {
+        "label": "TEMA",
+        "text": "Lei Rouanet"
+      },
+      {
+        "label": "TEMA",
+        "text": "acesso aos recursos"
+      },
+      {
+        "label": "TEMA",
+        "text": "descentralizar os investimentos"
+      },
+      {
+        "label": "LOC",
+        "text": "Rio-São Paulo"
+      },
+      {
+        "label": "CARGO",
+        "text": "Produtores culturais"
+      },
+      {
+        "label": "LOC",
+        "text": "Norte"
+      },
+      {
+        "label": "LOC",
+        "text": "Nordeste"
+      },
+      {
+        "label": "TEMA",
+        "text": "incentivos"
+      },
+      {
+        "label": "TEMA",
+        "text": "financiar projetos"
+      },
+      {
+        "label": "TEMA",
+        "text": "cultura regional"
+      }
+    ]
+  },
+  {
+    "text": "O Presidente do Supremo Tribunal Federal (STF), Ministro Luís Roberto Barroso, defendeu em um simpósio a continuidade da agenda de digitalização do judiciário brasileiro. O principal objetivo, segundo o ministro, é usar ferramentas de inteligência artificial para agilizar a triagem e a análise de processos repetitivos, que hoje congestionam os tribunais. A expectativa é que a tecnologia ajude a reduzir o gigantesco acervo processual e, consequentemente, entregue respostas mais rápidas à sociedade.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Presidente do Supremo Tribunal Federal"
+      },
+      {
+        "label": "ORG",
+        "text": "Supremo Tribunal Federal"
+      },
+      {
+        "label": "ORG",
+        "text": "STF"
+      },
+      {
+        "label": "CARGO",
+        "text": "Ministro"
+      },
+      {
+        "label": "PER",
+        "text": "Luís Roberto Barroso"
+      },
+      {
+        "label": "TEMA",
+        "text": "digitalização do judiciário brasileiro"
+      },
+      {
+        "label": "CARGO",
+        "text": "ministro"
+      },
+      {
+        "label": "TEMA",
+        "text": "inteligência artificial"
+      },
+      {
+        "label": "TEMA",
+        "text": "análise de processos repetitivos"
+      },
+      {
+        "label": "TEMA",
+        "text": "acervo processual"
+      }
+    ]
+  },
+  {
+    "text": "O Prefeito de São Paulo, Ricardo Nunes, sancionou a controversa lei que revisa o Plano Diretor Estratégico da cidade. A aprovação ocorreu após meses de debates acalorados na Câmara Municipal. O tema mais polêmico foi o da verticalização, com a nova lei permitindo prédios mais altos em eixos de transporte. Vereadores da oposição e movimentos sociais criticaram a medida, alegando que ela beneficia a especulação imobiliária e irá adensar bairros que já sofrem com falta de infraestrutura, sem resolver o déficit habitacional.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Prefeito de São Paulo"
+      },
+      {
+        "label": "PER",
+        "text": "Ricardo Nunes"
+      },
+      {
+        "label": "TEMA",
+        "text": "Plano Diretor Estratégico"
+      },
+      {
+        "label": "ORG",
+        "text": "Câmara Municipal"
+      },
+      {
+        "label": "TEMA",
+        "text": "verticalização"
+      },
+      {
+        "label": "CARGO",
+        "text": "Vereadores"
+      },
+      {
+        "label": "TEMA",
+        "text": "especulação imobiliária"
+      },
+      {
+        "label": "TEMA",
+        "text": "infraestrutura"
+      },
+      {
+        "label": "TEMA",
+        "text": "déficit habitacional"
+      }
+    ]
+  },
+  {
+    "text": "O Ministro do Trabalho e Emprego, Luiz Marinho, atuou pessoalmente como mediador na tensa negociação entre sindicatos de motoristas de aplicativo e as grandes plataformas digitais. A pauta principal dos trabalhadores é a regulamentação da profissão. Eles exigem um piso salarial mínimo por hora trabalhada e a inclusão obrigatória no sistema de contribuição previdenciária (INSS), garantindo direitos básicos como aposentadoria e auxílio-doença. As empresas, por sua vez, defendem um modelo mais flexível.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Ministro do Trabalho e Emprego"
+      },
+      {
+        "label": "PER",
+        "text": "Luiz Marinho"
+      },
+      {
+        "label": "CARGO",
+        "text": "mediador"
+      },
+      {
+        "label": "ORG",
+        "text": "sindicatos de motoristas de aplicativo"
+      },
+      {
+        "label": "ORG",
+        "text": "plataformas digitais"
+      },
+      {
+        "label": "CARGO",
+        "text": "trabalhadores"
+      },
+      {
+        "label": "TEMA",
+        "text": "regulamentação da profissão"
+      },
+      {
+        "label": "TEMA",
+        "text": "piso salarial mínimo"
+      },
+      {
+        "label": "TEMA",
+        "text": "contribuição previdenciária"
+      },
+      {
+        "label": "ORG",
+        "text": "INSS"
+      },
+      {
+        "label": "TEMA",
+        "text": "aposentadoria"
+      },
+      {
+        "label": "TEMA",
+        "text": "auxílio-doença"
+      }
+    ]
+  },
+  {
+    "text": "O Presidente da Agência Espacial Brasileira (AEB), Marco Antonio Chamon, anunciou uma nova e ambiciosa parceria estratégica com a NASA, a agência espacial americana. O projeto visa incluir o Brasil de forma mais ativa no programa Artemis, que planeja levar humanos de volta à Lua. O foco da colaboração brasileira será no desenvolvimento de pequenos satélites (nanossatélites) para monitoramento lunar e em experimentos científicos em ambiente de microgravidade, abrindo campo para engenheiros e cientistas do país.",
+    "predicted_entities": [
+      {
+        "label": "CARGO",
+        "text": "Presidente da Agência Espacial Brasileira (AEB)"
+      },
+      {
+        "label": "PER",
+        "text": "Marco Antonio Chamon"
+      },
+      {
+        "label": "ORG",
+        "text": "NASA"
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil"
+      },
+      {
+        "label": "TEMA",
+        "text": "programa Artemis"
+      },
+      {
+        "label": "LOC",
+        "text": "Lua"
+      },
+      {
+        "label": "TEMA",
+        "text": "pequenos satélites (nanossatélites)"
+      },
+      {
+        "label": "TEMA",
+        "text": "monitoramento lunar"
+      },
+      {
+        "label": "TEMA",
+        "text": "experimentos científicos"
+      },
+      {
+        "label": "TEMA",
+        "text": "microgravidade"
+      },
+      {
+        "label": "CARGO",
+        "text": "engenheiros"
+      },
+      {
+        "label": "CARGO",
+        "text": "cientistas"
+      }
+    ]
+  },
+  {
+    "text": "Durante uma feira internacional de aviação na Europa, o CEO da Embraer, Francisco Gomes Neto, destacou o sucesso comercial sem precedentes do cargueiro militar KC-390 Millennium. A aeronave já foi vendida para várias forças aéreas da OTAN. O executivo afirmou que a divisão de defesa da companhia se tornou um pilar estratégico fundamental para o crescimento e a exportação, provando a capacidade da engenharia nacional em competir globalmente no setor de alta tecnologia e garantindo uma carteira de pedidos robusta para a próxima década.",
+    "predicted_entities": [
+      {
+        "label": "TEMA",
+        "text": "aviação"
+      },
+      {
+        "label": "LOC",
+        "text": "Europa"
+      },
+      {
+        "label": "CARGO",
+        "text": "CEO da Embraer"
+      },
+      {
+        "label": "PER",
+        "text": "Francisco Gomes Neto"
+      },
+      {
+        "label": "TEMA",
+        "text": "cargueiro militar KC-390 Millennium"
+      },
+      {
+        "label": "ORG",
+        "text": "OTAN"
+      },
+      {
+        "label": "CARGO",
+        "text": "executivo"
+      },
+      {
+        "label": "TEMA",
+        "text": "divisão de defesa"
+      },
+      {
+        "label": "TEMA",
+        "text": "crescimento e a exportação"
+      },
+      {
+        "label": "TEMA",
+        "text": "engenharia nacional"
+      },
+      {
+        "label": "TEMA",
+        "text": "setor de alta tecnologia"
+      }
+    ]
+  }
+]
