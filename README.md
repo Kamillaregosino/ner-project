@@ -81,4 +81,5 @@ TEMA         |      34.75% |      53.25% |      42.06%
 
 ## Aplicação do NER para buscas
 
+<img width="1336" height="624" alt="Captura de tela 2025-11-26 085711" src="https://github.com/user-attachments/assets/41a550d3-4398-4e7c-a30c-c93193282649" />
 
