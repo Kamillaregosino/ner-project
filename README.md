@@ -5,19 +5,20 @@ Esse projeto tem o objetivo de colocar em prática estudos sobre Reconhecimento 
 ## Estrutura das pastas
 ```plaintext
 /
-├── 📁 Applications/                  # Contém a aplicação do ner
-│   ├dashboard_trend_analysis.ipynb    # Aplicação do ner para analisar tendências de notícias   
-│   ├search.ipynb                      # Aplicação do ner para fazer buscas
+├── 📁 Applications/                  
+│   ├dashboard_trend_analysis.ipynb    
+│   ├search.ipynb                      
 |   
-├── 📁 Data/                           # Contém os dados utilizados na aplicação   
-|    ├convert.ipynb                     # Converte os dados do Label-studio pr formato do spacy
+├── 📁 Data/                             
+|    ├convert.ipynb                     
 │
 ├── 📁 LLM/
-|    ├ner.ipynb                         # Uso de LLM pr rotulação de entidades nomeadas e avaliação
+|    ├ner.ipynb                         
 |
 ├── 📁 Train_teste/
-|    ├train_test.ipynb                  # Treino e teste usando spacy     
-└── pyproject.toml                      # Dependências do projeto.
+|    ├train_test.ipynb                    
+└── pyproject.toml                     
+```
 
 ## Download do Modelo
 
@@ -28,8 +29,6 @@ Como o GitHub não permite arquivos maiores que 100MB, disponibilizei os arquivo
 https://drive.google.com/drive/folders/1wovYthihMs5DESz26aq9ulSD-ACOajo7?usp=sharing
 
 Após baixar, coloque o arquivo na pasta: Applications
-
-
 
 
 ## Avaliação do modelo treinado no spacy
@@ -75,6 +74,7 @@ TEMA         |      34.75% |      53.25% |      42.06%
 
 
 
+![IMG_0943](https://github.com/user-attachments/assets/f6b97baa-7306-4a8c-9b90-191f5becc4a9)
 
 
 
