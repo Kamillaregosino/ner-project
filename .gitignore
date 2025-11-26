@@ -15,3 +15,4 @@ venv/
 .env.*
 
 Applications/model_news2/
+Train_test_spacy/model_news2/

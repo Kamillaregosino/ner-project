@@ -12,7 +12,7 @@
       },
       {
         "label": "TEMA",
-        "text": "infraestrutura"
+        "text": "investimentos em infraestrutura"
       },
       {
         "label": "ORG",
@@ -83,6 +83,10 @@
         "text": "Lula"
       },
       {
+        "label": "TEMA",
+        "text": "integração regional"
+      },
+      {
         "label": "CARGO",
         "text": "governadores"
       },
@@ -93,6 +97,10 @@
       {
         "label": "CARGO",
         "text": "empresários"
+      },
+      {
+        "label": "CARGO",
+        "text": "presidente"
       },
       {
         "label": "TEMA",
@@ -133,7 +141,7 @@
       },
       {
         "label": "TEMA",
-        "text": "petróleo"
+        "text": "alta do barril de petróleo"
       },
       {
         "label": "CARGO",
@@ -142,6 +150,14 @@
       {
         "label": "PER",
         "text": "Jean Paul Prates"
+      },
+      {
+        "label": "TEMA",
+        "text": "reajuste"
+      },
+      {
+        "label": "TEMA",
+        "text": "custos de importação"
       },
       {
         "label": "CARGO",
@@ -166,10 +182,6 @@
       {
         "label": "TEMA",
         "text": "política de preços"
-      },
-      {
-        "label": "ORG",
-        "text": "mercado financeiro"
       }
     ]
   },
@@ -186,7 +198,7 @@
       },
       {
         "label": "TEMA",
-        "text": "dengue"
+        "text": "detecção de dengue"
       },
       {
         "label": "VALOR",
@@ -239,6 +251,10 @@
       {
         "label": "CARGO",
         "text": "Especialistas"
+      },
+      {
+        "label": "TEMA",
+        "text": "diagnóstico"
       },
       {
         "label": "ORG",
@@ -383,6 +399,10 @@
         "text": "0,25 ponto percentual"
       },
       {
+        "label": "CARGO",
+        "text": "Investidores"
+      },
+      {
         "label": "TEMA",
         "text": "responsabilidade fiscal"
       },
@@ -392,7 +412,7 @@
       },
       {
         "label": "TEMA",
-        "text": "controle das contas públicas"
+        "text": "contas públicas"
       },
       {
         "label": "CARGO",
@@ -409,10 +429,6 @@
       {
         "label": "ORG",
         "text": "Copom"
-      },
-      {
-        "label": "VALOR",
-        "text": "dezembro"
       }
     ]
   },
@@ -464,20 +480,16 @@
         "text": "Defesa Civil"
       },
       {
-        "label": "CARGO",
-        "text": "Especialistas"
-      },
-      {
         "label": "TEMA",
-        "text": "El Niño"
-      },
-      {
-        "label": "CARGO",
-        "text": "Meteorologistas"
+        "text": "desidratação"
       },
       {
         "label": "ORG",
         "text": "Governos estaduais"
+      },
+      {
+        "label": "TEMA",
+        "text": "colapso no sistema elétrico"
       },
       {
         "label": "ORG",
@@ -553,10 +565,6 @@
         "text": "equilíbrio climático"
       },
       {
-        "label": "CARGO",
-        "text": "Cientistas"
-      },
-      {
         "label": "TEMA",
         "text": "garimpo"
       }
@@ -570,11 +578,11 @@
         "text": "Ministério da Educação"
       },
       {
-        "label": "TEMA",
+        "label": "ORG",
         "text": "Exame Nacional do Ensino Médio"
       },
       {
-        "label": "TEMA",
+        "label": "ORG",
         "text": "Enem"
       },
       {
@@ -583,7 +591,11 @@
       },
       {
         "label": "TEMA",
-        "text": "questões adaptativas"
+        "text": "educação"
+      },
+      {
+        "label": "TEMA",
+        "text": "avaliação"
       },
       {
         "label": "CARGO",
@@ -607,19 +619,7 @@
       },
       {
         "label": "VALOR",
-        "text": "2025"
-      },
-      {
-        "label": "CARGO",
-        "text": "Especialistas"
-      },
-      {
-        "label": "CARGO",
-        "text": "Professores"
-      },
-      {
-        "label": "CARGO",
-        "text": "Estudantes"
+        "text": "segundo semestre de 2025"
       },
       {
         "label": "ORG",
@@ -636,7 +636,11 @@
       },
       {
         "label": "TEMA",
-        "text": "sistema de irrigação inteligente"
+        "text": "irrigação inteligente"
+      },
+      {
+        "label": "TEMA",
+        "text": "tecnologia"
       },
       {
         "label": "ORG",
@@ -659,10 +663,6 @@
         "text": "Finep"
       },
       {
-        "label": "CARGO",
-        "text": "Agricultores"
-      },
-      {
         "label": "LOC",
         "text": "Minas Gerais"
       },
@@ -673,6 +673,10 @@
       {
         "label": "PER",
         "text": "Rafael Costa"
+      },
+      {
+        "label": "TEMA",
+        "text": "produtividade"
       },
       {
         "label": "ORG",
@@ -698,6 +702,10 @@
       {
         "label": "TEMA",
         "text": "Marco Legal da Indústria Verde"
+      },
+      {
+        "label": "TEMA",
+        "text": "incentivos fiscais"
       },
       {
         "label": "TEMA",
@@ -728,12 +736,16 @@
         "text": "R$ 80 bilhões"
       },
       {
-        "label": "CARGO",
-        "text": "Ambientalistas"
+        "label": "TEMA",
+        "text": "poluição industrial"
       },
       {
         "label": "ORG",
         "text": "Confederação Nacional da Indústria"
+      },
+      {
+        "label": "TEMA",
+        "text": "produtos sustentáveis"
       },
       {
         "label": "ORG",
@@ -755,10 +767,6 @@
       {
         "label": "TEMA",
         "text": "avião elétrico"
-      },
-      {
-        "label": "TEMA",
-        "text": "treinamento militar"
       },
       {
         "label": "TEMA",
@@ -814,20 +822,12 @@
         "text": "Recife"
       },
       {
-        "label": "TEMA",
-        "text": "corredor de ônibus 100% autônomo"
-      },
-      {
         "label": "VALOR",
         "text": "100%"
       },
       {
         "label": "LOC",
         "text": "país"
-      },
-      {
-        "label": "TEMA",
-        "text": "GPS"
       },
       {
         "label": "TEMA",
@@ -875,10 +875,6 @@
         "text": "IBGE"
       },
       {
-        "label": "TEMA",
-        "text": "população brasileira"
-      },
-      {
         "label": "VALOR",
         "text": "205,7 milhões"
       },
@@ -896,7 +892,7 @@
       },
       {
         "label": "TEMA",
-        "text": "taxa de natalidade"
+        "text": "natalidade"
       },
       {
         "label": "LOC",
@@ -929,10 +925,6 @@
       {
         "label": "ORG",
         "text": "governo"
-      },
-      {
-        "label": "TEMA",
-        "text": "natalidade"
       }
     ]
   },
@@ -1010,7 +1002,7 @@
       },
       {
         "label": "TEMA",
-        "text": "empresas de tecnologia"
+        "text": "tecnologia"
       },
       {
         "label": "VALOR",
@@ -1030,7 +1022,7 @@
       },
       {
         "label": "TEMA",
-        "text": "ecossistema de empreendedorismo"
+        "text": "empreendedorismo"
       },
       {
         "label": "LOC",
@@ -1067,7 +1059,7 @@
       },
       {
         "label": "VALOR",
-        "text": "77 milhões"
+        "text": "77 milhões de sacas"
       },
       {
         "label": "TEMA",
@@ -1091,7 +1083,7 @@
       },
       {
         "label": "TEMA",
-        "text": "café"
+        "text": "preço do café"
       }
     ]
   },
@@ -1108,7 +1100,7 @@
       },
       {
         "label": "TEMA",
-        "text": "revitalização da orla"
+        "text": "revitalização da orla de Copacabana"
       },
       {
         "label": "LOC",
@@ -1121,6 +1113,10 @@
       {
         "label": "TEMA",
         "text": "segurança pública"
+      },
+      {
+        "label": "ORG",
+        "text": "município"
       },
       {
         "label": "ORG",
@@ -1140,6 +1136,10 @@
         "text": "Universidade Federal do Paraná"
       },
       {
+        "label": "TEMA",
+        "text": "nova espécie de peixe"
+      },
+      {
         "label": "LOC",
         "text": "Mata Atlântica"
       },
@@ -1148,16 +1148,8 @@
         "text": "3 cm"
       },
       {
-        "label": "TEMA",
-        "text": "conservação"
-      },
-      {
         "label": "CARGO",
         "text": "cientistas"
-      },
-      {
-        "label": "TEMA",
-        "text": "poluição"
       },
       {
         "label": "ORG",
@@ -1174,11 +1166,19 @@
       },
       {
         "label": "TEMA",
-        "text": "política de incentivo"
+        "text": "política de incentivo para museus regionais"
       },
       {
         "label": "VALOR",
         "text": "R$ 500 milhões"
+      },
+      {
+        "label": "TEMA",
+        "text": "modernização de acervos"
+      },
+      {
+        "label": "TEMA",
+        "text": "digitalização de documentos históricos"
       },
       {
         "label": "CARGO",
@@ -1222,10 +1222,6 @@
         "text": "65%"
       },
       {
-        "label": "TEMA",
-        "text": "demanda elétrica"
-      },
-      {
         "label": "ORG",
         "text": "ONS"
       },
@@ -1247,11 +1243,7 @@
       },
       {
         "label": "TEMA",
-        "text": "rede de transmissão"
-      },
-      {
-        "label": "TEMA",
-        "text": "energia gerada"
+        "text": "expansão da rede de transmissão"
       }
     ]
   },
@@ -1283,10 +1275,6 @@
         "text": "Ricardo Lewandowski"
       },
       {
-        "label": "TEMA",
-        "text": "ataques virtuais"
-      },
-      {
         "label": "VALOR",
         "text": "30%"
       }
@@ -1312,16 +1300,8 @@
         "text": "Linha 1-Azul"
       },
       {
-        "label": "TEMA",
-        "text": "acidentes"
-      },
-      {
         "label": "VALOR",
         "text": "2027"
-      },
-      {
-        "label": "CARGO",
-        "text": "Técnicos"
       }
     ]
   },
@@ -1386,16 +1366,8 @@
         "text": "Brasil"
       },
       {
-        "label": "CARGO",
-        "text": "Especialistas em segurança pública"
-      },
-      {
         "label": "TEMA",
         "text": "segurança pública"
-      },
-      {
-        "label": "TEMA",
-        "text": "cooperação internacional"
       }
     ]
   },
@@ -1444,10 +1416,6 @@
         "text": "Fiocruz"
       },
       {
-        "label": "TEMA",
-        "text": "mutação"
-      },
-      {
         "label": "LOC",
         "text": "litoral paulista"
       },
@@ -1458,6 +1426,10 @@
       {
         "label": "ORG",
         "text": "Ministério da Saúde"
+      },
+      {
+        "label": "TEMA",
+        "text": "mutação"
       },
       {
         "label": "CARGO",
@@ -1487,6 +1459,14 @@
       {
         "label": "TEMA",
         "text": "urnas eletrônicas"
+      },
+      {
+        "label": "CARGO",
+        "text": "Eleitores"
+      },
+      {
+        "label": "CARGO",
+        "text": "candidatos"
       },
       {
         "label": "CARGO",
@@ -1527,6 +1507,10 @@
       },
       {
         "label": "VALOR",
+        "text": "segundo trimestre"
+      },
+      {
+        "label": "VALOR",
         "text": "2025"
       },
       {
@@ -1542,16 +1526,16 @@
         "text": "agropecuária"
       },
       {
+        "label": "TEMA",
+        "text": "seca"
+      },
+      {
         "label": "LOC",
         "text": "Centro-Oeste"
       },
       {
         "label": "ORG",
         "text": "Ministério da Fazenda"
-      },
-      {
-        "label": "LOC",
-        "text": "país"
       },
       {
         "label": "CARGO",
@@ -1567,6 +1551,14 @@
         "text": "Polícia Federal"
       },
       {
+        "label": "VALOR",
+        "text": "quinta-feira"
+      },
+      {
+        "label": "TEMA",
+        "text": "megaoperação"
+      },
+      {
         "label": "TEMA",
         "text": "fraudes em licitações"
       },
@@ -1577,10 +1569,6 @@
       {
         "label": "VALOR",
         "text": "42"
-      },
-      {
-        "label": "VALOR",
-        "text": "seis"
       },
       {
         "label": "LOC",
@@ -1604,16 +1592,12 @@
         "text": "Ministério da Saúde"
       },
       {
-        "label": "ORG",
-        "text": "Farmácia Popular"
+        "label": "TEMA",
+        "text": "programa Farmácia Popular"
       },
       {
         "label": "TEMA",
-        "text": "medicamentos"
-      },
-      {
-        "label": "TEMA",
-        "text": "doenças autoimunes"
+        "text": "medicamentos para tratamento de doenças autoimunes"
       },
       {
         "label": "TEMA",
@@ -1699,7 +1683,7 @@
       },
       {
         "label": "VALOR",
-        "text": "250 mil"
+        "text": "250 mil barris por dia"
       },
       {
         "label": "ORG",
@@ -1745,10 +1729,6 @@
       {
         "label": "VALOR",
         "text": "200 mil"
-      },
-      {
-        "label": "TEMA",
-        "text": "parceria público-privada"
       },
       {
         "label": "CARGO",
@@ -1813,6 +1793,10 @@
         "text": "terceiro"
       },
       {
+        "label": "ORG",
+        "text": "estaleiro de Itaguaí"
+      },
+      {
         "label": "LOC",
         "text": "Itaguaí"
       },
@@ -1851,15 +1835,15 @@
       },
       {
         "label": "TEMA",
-        "text": "voos comerciais"
-      },
-      {
-        "label": "TEMA",
-        "text": "aeronaves elétricas"
+        "text": "voos comerciais com aeronaves elétricas"
       },
       {
         "label": "LOC",
         "text": "Brasil"
+      },
+      {
+        "label": "ORG",
+        "text": "startup paulista"
       },
       {
         "label": "VALOR",
@@ -1948,10 +1932,6 @@
         "text": "Especialistas"
       },
       {
-        "label": "TEMA",
-        "text": "veículos a combustão"
-      },
-      {
         "label": "VALOR",
         "text": "2030"
       }
@@ -1978,10 +1958,14 @@
       },
       {
         "label": "TEMA",
-        "text": "preservação ambiental"
+        "text": "áreas de lazer"
       },
       {
         "label": "TEMA",
+        "text": "preservação ambiental"
+      },
+      {
+        "label": "ORG",
         "text": "COP 30"
       },
       {
@@ -1998,8 +1982,12 @@
         "text": "Ministério da Justiça"
       },
       {
+        "label": "ORG",
+        "text": "empresas de tecnologia"
+      },
+      {
         "label": "TEMA",
-        "text": "reconhecimento facial"
+        "text": "sistema de reconhecimento facial"
       },
       {
         "label": "TEMA",
@@ -2039,8 +2027,12 @@
         "text": "Amazonas"
       },
       {
+        "label": "CARGO",
+        "text": "alunos"
+      },
+      {
         "label": "TEMA",
-        "text": "distribuição de tablets"
+        "text": "ensino médio"
       },
       {
         "label": "VALOR",
@@ -2051,16 +2043,16 @@
         "text": "governo"
       },
       {
-        "label": "TEMA",
-        "text": "acesso a materiais pedagógicos"
-      },
-      {
         "label": "CARGO",
         "text": "Professores"
       },
       {
         "label": "TEMA",
-        "text": "tecnologia em sala de aula"
+        "text": "tecnologia"
+      },
+      {
+        "label": "TEMA",
+        "text": "educação"
       }
     ]
   },
@@ -2121,8 +2113,8 @@
         "text": "Polícia Rodoviária Federal"
       },
       {
-        "label": "TEMA",
-        "text": "sistema com drones para monitorar rodovias"
+        "label": "LOC",
+        "text": "rodovias"
       },
       {
         "label": "TEMA",
@@ -2146,7 +2138,7 @@
       },
       {
         "label": "TEMA",
-        "text": "segurança aos motoristas"
+        "text": "segurança"
       },
       {
         "label": "CARGO",
@@ -2170,6 +2162,10 @@
         "text": "Conferência Nacional de Cidades Inteligentes"
       },
       {
+        "label": "TEMA",
+        "text": "Cidades Inteligentes"
+      },
+      {
         "label": "CARGO",
         "text": "especialistas"
       },
@@ -2178,12 +2174,28 @@
         "text": "15"
       },
       {
-        "label": "TEMA",
-        "text": "soluções tecnológicas para transporte, energia e sustentabilidade urbana"
+        "label": "LOC",
+        "text": "países"
       },
       {
         "label": "TEMA",
-        "text": "acordo de cooperação internacional"
+        "text": "soluções tecnológicas"
+      },
+      {
+        "label": "TEMA",
+        "text": "transporte"
+      },
+      {
+        "label": "TEMA",
+        "text": "energia"
+      },
+      {
+        "label": "TEMA",
+        "text": "sustentabilidade urbana"
+      },
+      {
+        "label": "TEMA",
+        "text": "cooperação internacional"
       }
     ]
   },
@@ -2193,10 +2205,6 @@
       {
         "label": "ORG",
         "text": "Gol Linhas Aéreas"
-      },
-      {
-        "label": "TEMA",
-        "text": "nova rota direta"
       },
       {
         "label": "LOC",
@@ -2216,7 +2224,11 @@
       },
       {
         "label": "TEMA",
-        "text": "fluxo de turistas"
+        "text": "turismo"
+      },
+      {
+        "label": "CARGO",
+        "text": "turistas"
       },
       {
         "label": "LOC",
@@ -2291,6 +2303,10 @@
       {
         "label": "ORG",
         "text": "governo municipal"
+      },
+      {
+        "label": "TEMA",
+        "text": "lixo"
       }
     ]
   },
@@ -2352,7 +2368,7 @@
       },
       {
         "label": "TEMA",
-        "text": "degradar plástico"
+        "text": "plástico"
       },
       {
         "label": "VALOR",
@@ -2527,16 +2543,20 @@
         "text": "Presidente do Banco Central"
       },
       {
+        "label": "ORG",
+        "text": "Banco Central"
+      },
+      {
         "label": "PER",
         "text": "Roberto Campos Neto"
       },
       {
-        "label": "ORG",
-        "text": "Comitê de Política Monetária"
+        "label": "TEMA",
+        "text": "mercado financeiro"
       },
       {
         "label": "ORG",
-        "text": "Copom"
+        "text": "Comitê de Política Monetária (Copom)"
       },
       {
         "label": "TEMA",
@@ -2553,10 +2573,6 @@
       {
         "label": "CARGO",
         "text": "economistas"
-      },
-      {
-        "label": "TEMA",
-        "text": "Selic"
       },
       {
         "label": "TEMA",
@@ -2577,11 +2593,19 @@
       },
       {
         "label": "ORG",
-        "text": "Pé de Meia"
+        "text": "\"Pé de Meia\""
+      },
+      {
+        "label": "TEMA",
+        "text": "política de poupança"
       },
       {
         "label": "TEMA",
         "text": "ensino médio"
+      },
+      {
+        "label": "TEMA",
+        "text": "auxílio financeiro"
       },
       {
         "label": "CARGO",
@@ -2598,6 +2622,14 @@
       {
         "label": "TEMA",
         "text": "evasão escolar"
+      },
+      {
+        "label": "LOC",
+        "text": "país"
+      },
+      {
+        "label": "TEMA",
+        "text": "incentivo financeiro"
       },
       {
         "label": "VALOR",
@@ -2634,6 +2666,10 @@
       },
       {
         "label": "CARGO",
+        "text": "agente"
+      },
+      {
+        "label": "CARGO",
         "text": "Especialistas em segurança pública"
       },
       {
@@ -2643,6 +2679,10 @@
       {
         "label": "ORG",
         "text": "sindicatos de policiais"
+      },
+      {
+        "label": "TEMA",
+        "text": "uso das imagens"
       }
     ]
   },
@@ -2719,6 +2759,10 @@
         "text": "neoindustrialização"
       },
       {
+        "label": "LOC",
+        "text": "país"
+      },
+      {
         "label": "CARGO",
         "text": "Ministro do Desenvolvimento, Indústria e Comércio"
       },
@@ -2735,20 +2779,8 @@
         "text": "transição energética"
       },
       {
-        "label": "TEMA",
-        "text": "competitividade global"
-      },
-      {
         "label": "LOC",
         "text": "Brasil"
-      },
-      {
-        "label": "TEMA",
-        "text": "indústrias verdes"
-      },
-      {
-        "label": "TEMA",
-        "text": "digitalização dos processos produtivos"
       },
       {
         "label": "TEMA",
@@ -2785,14 +2817,6 @@
       },
       {
         "label": "TEMA",
-        "text": "soja"
-      },
-      {
-        "label": "TEMA",
-        "text": "milho"
-      },
-      {
-        "label": "TEMA",
         "text": "agricultura nacional"
       },
       {
@@ -2802,6 +2826,10 @@
       {
         "label": "TEMA",
         "text": "meio ambiente"
+      },
+      {
+        "label": "TEMA",
+        "text": "investimento"
       }
     ]
   },
@@ -2841,16 +2869,16 @@
         "text": "saúde"
       },
       {
+        "label": "TEMA",
+        "text": "segurança"
+      },
+      {
         "label": "ORG",
         "text": "governo federal"
       },
       {
-        "label": "ORG",
-        "text": "comitê interministerial"
-      },
-      {
         "label": "CARGO",
-        "text": "agentes da Força Nacional"
+        "text": "agentes"
       },
       {
         "label": "ORG",
@@ -2874,16 +2902,20 @@
         "text": "PIB"
       },
       {
+        "label": "LOC",
+        "text": "país"
+      },
+      {
         "label": "CARGO",
         "text": "analistas de mercado"
       },
       {
         "label": "TEMA",
-        "text": "setor de serviços"
+        "text": "economia"
       },
       {
         "label": "TEMA",
-        "text": "economia"
+        "text": "setor de serviços"
       },
       {
         "label": "TEMA",
@@ -2940,7 +2972,7 @@
       },
       {
         "label": "CARGO",
-        "text": "relator"
+        "text": "relator do projeto"
       },
       {
         "label": "CARGO",
@@ -2989,10 +3021,6 @@
       },
       {
         "label": "TEMA",
-        "text": "linhas de crédito"
-      },
-      {
-        "label": "TEMA",
         "text": "agricultura de baixo carbono"
       },
       {
@@ -3002,14 +3030,6 @@
       {
         "label": "TEMA",
         "text": "uso de bioinsumos"
-      },
-      {
-        "label": "TEMA",
-        "text": "mercado internacional"
-      },
-      {
-        "label": "TEMA",
-        "text": "rastreabilidade ambiental"
       }
     ]
   },
@@ -3034,15 +3054,7 @@
       },
       {
         "label": "TEMA",
-        "text": "exploração da Margem Equatorial"
-      },
-      {
-        "label": "TEMA",
         "text": "fronteira de petróleo"
-      },
-      {
-        "label": "LOC",
-        "text": "país"
       },
       {
         "label": "ORG",
@@ -3078,14 +3090,6 @@
         "text": "Lei Rouanet"
       },
       {
-        "label": "TEMA",
-        "text": "acesso aos recursos"
-      },
-      {
-        "label": "TEMA",
-        "text": "descentralizar os investimentos"
-      },
-      {
         "label": "LOC",
         "text": "Rio-São Paulo"
       },
@@ -3100,14 +3104,6 @@
       {
         "label": "LOC",
         "text": "Nordeste"
-      },
-      {
-        "label": "TEMA",
-        "text": "incentivos"
-      },
-      {
-        "label": "TEMA",
-        "text": "financiar projetos"
       },
       {
         "label": "TEMA",
@@ -3153,10 +3149,6 @@
       {
         "label": "TEMA",
         "text": "análise de processos repetitivos"
-      },
-      {
-        "label": "TEMA",
-        "text": "acervo processual"
       }
     ]
   },
@@ -3166,6 +3158,10 @@
       {
         "label": "CARGO",
         "text": "Prefeito de São Paulo"
+      },
+      {
+        "label": "LOC",
+        "text": "São Paulo"
       },
       {
         "label": "PER",
@@ -3221,24 +3217,12 @@
         "text": "sindicatos de motoristas de aplicativo"
       },
       {
-        "label": "ORG",
-        "text": "plataformas digitais"
-      },
-      {
-        "label": "CARGO",
-        "text": "trabalhadores"
-      },
-      {
         "label": "TEMA",
         "text": "regulamentação da profissão"
       },
       {
         "label": "TEMA",
         "text": "piso salarial mínimo"
-      },
-      {
-        "label": "TEMA",
-        "text": "contribuição previdenciária"
       },
       {
         "label": "ORG",
@@ -3259,7 +3243,15 @@
     "predicted_entities": [
       {
         "label": "CARGO",
-        "text": "Presidente da Agência Espacial Brasileira (AEB)"
+        "text": "Presidente da Agência Espacial Brasileira"
+      },
+      {
+        "label": "ORG",
+        "text": "Agência Espacial Brasileira"
+      },
+      {
+        "label": "ORG",
+        "text": "AEB"
       },
       {
         "label": "PER",
@@ -3283,7 +3275,11 @@
       },
       {
         "label": "TEMA",
-        "text": "pequenos satélites (nanossatélites)"
+        "text": "pequenos satélites"
+      },
+      {
+        "label": "TEMA",
+        "text": "nanossatélites"
       },
       {
         "label": "TEMA",
@@ -3311,10 +3307,6 @@
     "text": "Durante uma feira internacional de aviação na Europa, o CEO da Embraer, Francisco Gomes Neto, destacou o sucesso comercial sem precedentes do cargueiro militar KC-390 Millennium. A aeronave já foi vendida para várias forças aéreas da OTAN. O executivo afirmou que a divisão de defesa da companhia se tornou um pilar estratégico fundamental para o crescimento e a exportação, provando a capacidade da engenharia nacional em competir globalmente no setor de alta tecnologia e garantindo uma carteira de pedidos robusta para a próxima década.",
     "predicted_entities": [
       {
-        "label": "TEMA",
-        "text": "aviação"
-      },
-      {
         "label": "LOC",
         "text": "Europa"
       },
@@ -3323,12 +3315,16 @@
         "text": "CEO da Embraer"
       },
       {
+        "label": "ORG",
+        "text": "Embraer"
+      },
+      {
         "label": "PER",
         "text": "Francisco Gomes Neto"
       },
       {
         "label": "TEMA",
-        "text": "cargueiro militar KC-390 Millennium"
+        "text": "KC-390 Millennium"
       },
       {
         "label": "ORG",
@@ -3341,10 +3337,6 @@
       {
         "label": "TEMA",
         "text": "divisão de defesa"
-      },
-      {
-        "label": "TEMA",
-        "text": "crescimento e a exportação"
       },
       {
         "label": "TEMA",
